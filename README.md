@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sger/RustBooks.svg?branch=master)](https://travis-ci.org/sger/RustBooks)
+
 Rust Books
 ====
 * [Books](#books)

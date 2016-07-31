@@ -34,6 +34,12 @@ Next, the book covers flexible arrays, vectors, tuples, enums, and structs. You 
 
 By the end of this book, you will have successfully migrated to using Rust and will be able to use it as your main programming language.
 
+###[Programming Rust](http://shop.oreilly.com/product/0636920040385.do)
+
+<img src="http://akamaicovers.oreilly.com/images/0636920040385/rc_cat.gif" width="120px"/>
+
+This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
+
 **Resources**
 ====
 

@@ -43,6 +43,8 @@ This practical book introduces systems programmers to Rust, the new and cutting-
 **Resources**
 ====
 
+###[Learn Rust with examples](https://github.com/rust-lang/rust-by-examplel)
+
 Contributing
 ====
 Your contributions are always welcome, just follow [the rules](https://github.com/sger/RustBooks/blob/master/CONTRIBUTING.md)!

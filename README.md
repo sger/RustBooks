@@ -48,7 +48,7 @@ By the end of this book, you will have successfully migrated to using Rust and w
 
 This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
-###[Mastering Rust](http://shop.oreilly.com/product/0636920040385.do)
+###[Mastering Rust](https://www.packtpub.com/application-development/mastering-rust)
 
 <img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05023_MockupCover_Normal_.jpg" width="120px"/>
 

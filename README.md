@@ -11,11 +11,9 @@ Rust Books
 **Starter Books**
 ----
 
-###[Why Rust?](http://elixirschool.com/) *Free*
+###[The Rust Programming Language](https://doc.rust-lang.org/book/) *Free*
 
-<img src="http://elixir-lang.org/images/learning/elixir-school.jpg" width="120px"/>
-
-Elixir-School is an open and community driven effort inspired by Twitter’s Scala School. The site’s content consists of peer-reviewed lessons on various Elixir topics that range in difficulty. The lessons are currently available in over 10 languages to help make programming Elixir more accessible to non-English speakers.
+Welcome! This book will teach you about the Rust Programming Language. Rust is a systems programming language focused on three goals: safety, speed, and concurrency. It maintains these goals without having a garbage collector, making it a useful language for a number of use cases other languages aren’t good at: embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems. It improves on current languages targeting this space by having a number of compile-time safety checks that produce no runtime overhead, while eliminating all data races. Rust also aims to achieve ‘zero-cost abstractions’ even though some of these abstractions feel like those of a high-level language. Even then, Rust still allows precise control like a low-level language would.
 
 ###[Why Rust?](http://www.oreilly.com/programming/free/why-rust.csp)
 

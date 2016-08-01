@@ -32,6 +32,12 @@ Rust is a highly concurrent and high performance language that focuses on safety
 **Advanced Books**
 ---
 
+###[The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+
+This book digs into all the awful details that are necessary to understand in order to write correct Unsafe Rust programs. Due to the nature of this problem, it may lead to unleashing untold horrors that shatter your psyche into a billion infinitesimal fragments of despair.
+
+Should you wish a long and happy career of writing Rust programs, you should turn back now and forget you ever saw this book. It is not necessary. However if you intend to write unsafe code -- or just want to dig into the guts of the language -- this book contains invaluable information.
+
 ###[Rust Essentials](https://www.packtpub.com/application-development/rust-essentials)
 
 <img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5769OS_Rust%20Essentials.jpg" width="120px"/>

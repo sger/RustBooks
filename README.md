@@ -72,6 +72,7 @@ We’ll teach you big level concepts that make Rust a great language. Improving 
 ====
 
 ###[Learn Rust with examples](https://github.com/rust-lang/rust-by-example)
+###[The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
 
 Contributing
 ====

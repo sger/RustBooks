@@ -35,7 +35,7 @@ While systems programming languages have greatly evolved since the introduction 
 
 ###[Learning Rust](https://www.packtpub.com/application-development/learning-rust)
 
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05114_MockupCover_Normal.jpg" width="120px"/>
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5114.jpg" width="120px"/>
 
 Rust is a highly concurrent and high performance language that focuses on safety and speed, memory management, and writing clean code. It also guarantees thread safety, and its aim is to improve the performance of existing applications. It has been backed by Mozilla to solve the critical problem of concurrency.
 
@@ -66,7 +66,7 @@ This practical book introduces systems programmers to Rust, the new and cutting-
 
 ###[Mastering Rust](https://www.packtpub.com/application-development/mastering-rust)
 
-<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05023_MockupCover_Normal_.jpg" width="120px"/>
+<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/New-5023.png" width="120px"/>
 
 If concurrent programs are giving you sleepless nights, Rust is your go-to language. Filled with real-world examples and explanations, this book will show you how you can build scalable and reliable programs for your organization.
 
@@ -78,7 +78,7 @@ We’ll teach you big level concepts that make Rust a great language. Improving 
 ###[Learn Rust with examples](https://github.com/rust-lang/rust-by-example)
 
 ###[The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
-
+ 
 ###[Are We Learning Yet?](http://www.arewelearningyet.com/): List of resources for machine learning in Rust
 
 ###[Are We Web Yet?](http://www.arewewebyet.org/): List of resources for web development in Rust

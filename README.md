@@ -72,6 +72,12 @@ If concurrent programs are giving you sleepless nights, Rust is your go-to langu
 
 We’ll teach you big level concepts that make Rust a great language. Improving performance, using generics, building macros, and working with threads are just some of the topics we’ll cover. We’ll talk about the official toolsets and ways to discover more. The book contains a mix of theory interspersed with hands-on tasks so you acquire the skills as well as the knowledge. Since programming cannot be learned by just reading, we provide exercises (and solutions) to hammer the concepts in.
 
+### [The Rust Programming Language](https://www.nostarch.com/Rust)
+
+<img src="https://www.nostarch.com/sites/default/files/styles/uc_product/public/RustProgrammingLanguage_cover_0.png" width="120px"/>
+
+The Rust Programming Language is the official book on Rust; a community-developed, systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Rust’s memory safety guarantees, enforced at compile time, safeguard your programs against the many problems that pervade other systems languages. Rust offers the control and performance of a low-level language with the helpful abstractions of a high level one, and does this all without having a garbage collector. These characteristics make Rust useful for embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems.
+
 **Resources**
 ====
 

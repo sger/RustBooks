@@ -72,7 +72,7 @@ If concurrent programs are giving you sleepless nights, Rust is your go-to langu
 
 We’ll teach you big level concepts that make Rust a great language. Improving performance, using generics, building macros, and working with threads are just some of the topics we’ll cover. We’ll talk about the official toolsets and ways to discover more. The book contains a mix of theory interspersed with hands-on tasks so you acquire the skills as well as the knowledge. Since programming cannot be learned by just reading, we provide exercises (and solutions) to hammer the concepts in.
 
-###[The Rust Programming Language](https://www.nostarch.com/Rust)
+### [The Rust Programming Language](https://www.nostarch.com/Rust)
 
 <img src="https://www.nostarch.com/sites/default/files/styles/uc_product/public/RustProgrammingLanguage_cover_0.png" width="120px"/>
 

@@ -72,6 +72,12 @@ If concurrent programs are giving you sleepless nights, Rust is your go-to langu
 
 We’ll teach you big level concepts that make Rust a great language. Improving performance, using generics, building macros, and working with threads are just some of the topics we’ll cover. We’ll talk about the official toolsets and ways to discover more. The book contains a mix of theory interspersed with hands-on tasks so you acquire the skills as well as the knowledge. Since programming cannot be learned by just reading, we provide exercises (and solutions) to hammer the concepts in.
 
+### [Rust in action](https://www.manning.com/books/rust-in-action) 
+
+<img src="https://images.manning.com/720/960/resize/book/4/099dd58-033f-4bec-b296-a82b49b20f3e/McNamara-Rust-MEAP-HI.png" width="120px"/>
+
+Rust in Action introduces the Rust programming language by exploring numerous systems programming concepts and techniques.You'll be learning Rust by delving into how computers work under the hood. You'll find yourself playing with persistent storage, memory, networking and even tinkering with CPU instructions. The book takes you through using Rust to extend other applications and teaches you tricks to write blindingly fast code. You'll also discover parallel and concurrent programming. Filled to the brim with real-life use-cases and scenarios, you'll go beyond the Rust syntax and see what Rust has to offer in real-world use cases.
+
 ### [The Rust Programming Language](https://www.nostarch.com/Rust)
 
 <img src="https://www.nostarch.com/sites/default/files/styles/uc_product/public/RustProgrammingLanguage_cover_0.png" width="120px"/>

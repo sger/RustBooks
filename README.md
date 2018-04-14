@@ -63,16 +63,6 @@ This book digs into all the awful details that are necessary to understand in or
 
 Should you wish a long and happy career of writing Rust programs, you should turn back now and forget you ever saw this book. It is not necessary. However if you intend to write unsafe code -- or just want to dig into the guts of the language -- this book contains invaluable information.
 
-### [Rust Essentials](https://www.packtpub.com/application-development/rust-essentials)
-
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/5769OS_Rust%20Essentials.jpg" width="120px"/>
-
-Starting by comparing Rust with other programming languages, this book will show you where and how to use Rust. It will discuss primitive types along with variables and their scope, binding and casting, simple functions, and ways to control execution flow in a program.
-
-Next, the book covers flexible arrays, vectors, tuples, enums, and structs. You will then generalize the code with higher-order functions and generics applying it to closures, iterators, consumers, and so on. Memory safety is ensured by the compiler by using references, pointers, boxes, reference counting, and atomic reference counting. You will learn how to build macros and crates and discover concurrency for multicore execution.
-
-By the end of this book, you will have successfully migrated to using Rust and will be able to use it as your main programming language.
-
 ### [Programming Rust](http://shop.oreilly.com/product/0636920040385.do)
 
 <img src="http://akamaicovers.oreilly.com/images/0636920040385/rc_cat.gif" width="120px"/>
@@ -93,7 +83,7 @@ We’ll teach you big level concepts that make Rust a great language. Improving 
 
 The Rust Programming Language is the official book on Rust; a community-developed, systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. Rust’s memory safety guarantees, enforced at compile time, safeguard your programs against the many problems that pervade other systems languages. Rust offers the control and performance of a low-level language with the helpful abstractions of a high level one, and does this all without having a garbage collector. These characteristics make Rust useful for embedding in other languages, programs with specific space and time requirements, and writing low-level code, like device drivers and operating systems.
 
-###[Rust Essentials - Second Edition](https://www.packtpub.com/application-development/rust-essentials-second-edition) 
+### [Rust Essentials - Second Edition](https://www.packtpub.com/application-development/rust-essentials-second-edition) 
 
 <img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08304%20_cover.png" width="120px"/>
 

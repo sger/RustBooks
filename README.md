@@ -134,6 +134,14 @@ We begin with a brief comparison of the functional and object-oriented approach 
 
 By the end of the book, you will be familiar with the functional approach of programming and will be able to use these techniques on a daily basis.
 
+### [Rust High Performance](https://www.packtpub.com/application-development/rust-high-performance)
+
+<img src="https://www.packtpub.com/sites/default/files/B08822_cover.png" width="120px"/>
+
+At times, it is difficult to get the best performance out of Rust. This book teaches you to optimize the speed of your Rust code to the level of languages such as C/C++. You'll understand and fix common pitfalls, learn how to improve your productivity by using metaprogramming, and speed up your code by concurrently executing parts of it safely and easily. You will master the features of the language which will make you stand out and use them to really improve the efficiency of your algorithms
+
+The book begins with a gentle introduction to help you identify bottlenecks when programming in Rust. We highlight common performance pitfalls, along with strategies to detect and resolve these issues early. We move on to mastering Rust's type system, which will enable us to create impressive optimizations in both performance and safety at compile time. You will then learn how to effectively manage memory in Rust, mastering the borrow checker. We move on to measuring performance and you will see how this affects the way you write code. Moving ahead, you will perform metaprogramming in Rust to boost the performance of your code and your productivity. You will finally learn parallel programming in Rust, which enables efficient and faster execution by using multithreading and asynchronous programming.
+
 **Resources**
 ====
 

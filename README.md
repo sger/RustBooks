@@ -99,6 +99,15 @@ This book will teach you to how to manage program performance on modern machines
 
 The book will show you how to efficiently embed Rust in C++ code and explore the functionalities of various crates for multithreaded applications. It explores implementations in depth. You will know how a mutex works and build several yourself. You will master radically different approaches that exist in the ecosystem for structuring and managing high-scale systems.
 
+### [Hands-On Functional Programming in Rust](https://www.packtpub.com/application-development/hands-functional-programming-rust)
+
+<img src="https://www.packtpub.com/sites/default/files/B09736.png" width="120PX"/>
+
+Functional Programming allows developers to divide programs into smaller, reusable components that ease the creation, testing, and maintenance of software as a whole. Combined with the power of Rust, you can develop robust and scalable applications that fulfill modern day software requirements. This book will help you discover all the Rust features that can be used to build software in a functional way.
+
+We begin with a brief comparison of the functional and object-oriented approach to different problems and patterns. We then quickly look at the patterns of control flow, data the abstractions of these unique to Functional Programming. The next part covers how to create functional apps in Rust; mutability and ownership, which are exclusive to Rust, are also discussed. Pure functions are examined next and you'll master closures, their various types, and currying. We also look at implementing concurrency through functional design principles and metaprogramming using macros. Finally, we look at best practices for debugging and optimization.
+
+By the end of the book, you will be familiar with the functional approach of programming and will be able to use these techniques on a daily basis.
 
 **Resources**
 ====

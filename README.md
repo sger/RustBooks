@@ -35,7 +35,7 @@ While systems programming languages have greatly evolved since the introduction 
 
 ### [Learning Rust](https://www.packtpub.com/application-development/learning-rust)
 
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05114.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B05114.png" width="120px"/>
 
 Rust is a highly concurrent and high performance language that focuses on safety and speed, memory management, and writing clean code. It also guarantees thread safety, and its aim is to improve the performance of existing applications. It has been backed by Mozilla to solve the critical problem of concurrency.
 
@@ -51,7 +51,7 @@ Only a basic knowledge of programming is required, preferably in C or C++. To un
 
 ### [Rust Cookbook](https://www.packtpub.com/application-development/rust-cookbook) 
 
-<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781785880254.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B05117.png" width="120px"/>
 
 This book will help you understand the core concepts of the Rust language, enabling you to develop efficient and high-performance applications by incorporating features such as zero cost abstraction and better memory management.Delve into advanced-level concepts such as error handling, macros, crates, and parallelism in Rust. Toward the end of the book, learn how to create HTTP servers and web services, building a strong foundational knowledge in server-side programming and enabling to deliver solutions to build high-performance and safer production-level web applications and services using Rust.
 
@@ -96,7 +96,7 @@ This practical book introduces systems programmers to Rust, the new and cutting-
 
 ### [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust)
 
-<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B05023.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B05023.png" width="120px"/>
 
 If concurrent programs are giving you sleepless nights, Rust is your go-to language. Filled with real-world examples and explanations, this book will show you how you can build scalable and reliable programs for your organization.
 
@@ -110,7 +110,7 @@ The Rust Programming Language is the official book on Rust; a community-develope
 
 ### [Rust Essentials - Second Edition](https://www.packtpub.com/application-development/rust-essentials-second-edition) 
 
-<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08304%20_cover.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B08304.png" width="120px"/>
 
 This book starts off with an argumentation of Rust's unique place in today's landscape of programming languages. Install Rust and learn how to work with its package manager Cargo. The various concepts are introduced step by step: variables, types, functions, and control structures to lay the groundwork. Then explore more structured data such as strings, arrays, and enums, and see how pattern matching works.
 
@@ -136,7 +136,7 @@ By the end of the book, you will be familiar with the functional approach of pro
 
 ### [Rust High Performance](https://www.packtpub.com/application-development/rust-high-performance)
 
-<img src="https://www.packtpub.com/sites/default/files/B08822_cover.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B08822.png" width="120px"/>
 
 At times, it is difficult to get the best performance out of Rust. This book teaches you to optimize the speed of your Rust code to the level of languages such as C/C++. You'll understand and fix common pitfalls, learn how to improve your productivity by using metaprogramming, and speed up your code by concurrently executing parts of it safely and easily. You will master the features of the language which will make you stand out and use them to really improve the efficiency of your algorithms
 

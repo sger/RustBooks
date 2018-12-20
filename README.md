@@ -136,7 +136,7 @@ By the end of the book, you will be familiar with the functional approach of pro
 
 ### [Rust High Performance](https://www.packtpub.com/application-development/rust-high-performance)
 
-<img src="https://www.packtpub.com/sites/default/files/B08822_cover.png" width="120px"/>
+<img src="http://t2.gstatic.com/images?q=tbn:ANd9GcThwGXR8_qHHdVMz7JNV25lR0RB_ebnOTdj2wHksyFseF3CD-Yz" width="120px"/>
 
 At times, it is difficult to get the best performance out of Rust. This book teaches you to optimize the speed of your Rust code to the level of languages such as C/C++. You'll understand and fix common pitfalls, learn how to improve your productivity by using metaprogramming, and speed up your code by concurrently executing parts of it safely and easily. You will master the features of the language which will make you stand out and use them to really improve the efficiency of your algorithms
 

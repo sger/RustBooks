@@ -144,7 +144,7 @@ The book begins with a gentle introduction to help you identify bottlenecks when
 
 ### [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 
-<img src=https://imagery.pragprog.com/products/574/khrust.jpg?1538765162"" width="120px"/>
+<img src="https://imagery.pragprog.com/products/574/khrust.jpg?1538765162" width="120px"/>
 
 WebAssembly is more than just a revolutionary new technology. It’s reshaping how we build applications for the web and beyond. Where technologies like ActiveX and Flash have failed, you can now write code in whatever language you prefer and compile to WebAssembly for fast, type-safe code that runs in the browser, on mobile devices, embedded devices, and more. Combining WebAssembly’s portable, high-performance modules with Rust’s safety and power is a perfect development combination.
 

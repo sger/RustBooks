@@ -79,6 +79,13 @@ Beginning with an introduction to Rust, you’ll learn the basic aspects such as
 
 Over the course of this book, you’ll explore various features of Rust Programming including its SDL features, event loop, File I/O, and the famous GTK+ widget toolkit. Through these projects, you’ll see how well Rust performs in terms of concurrency—including parallelism, reliability, improved performance, generics, macros, and thread safety. We’ll also cover some asynchronous and reactive programming aspects of Rust.
 
+### [Rust Quick Start Guide](https://www.packtpub.com/application-development/rust-quick-start-guide)
+
+<img src="https://www.packtpub.com/sites/default/files/cover_18.png" width="120px"/>
+
+Get familiar with writing programs in the trending new systems programming language that brings together the powerful performance of low-level languages with the advanced features like thread safety in multi-threaded code
+
+
 **Advanced Books**
 ---
 

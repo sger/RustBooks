@@ -85,6 +85,12 @@ Over the course of this book, you’ll explore various features of Rust Programm
 
 Get familiar with writing programs in the trending new systems programming language that brings together the powerful performance of low-level languages with the advanced features like thread safety in multi-threaded code.
 
+### [Rust in Action [MEAP]](https://www.manning.com/books/rust-in-action)
+
+<img src="https://images.manning.com/720/960/resize/book/4/099dd58-033f-4bec-b296-a82b49b20f3e/McNamara-Rust-MEAP-HI.png" width="120px"/>
+
+Rust in Action introduces the Rust programming language by exploring numerous systems programming concepts and techniques.You'll be learning Rust by delving into how computers work under the hood. You'll find yourself playing with persistent storage, memory, networking and even tinkering with CPU instructions. The book takes you through using Rust to extend other applications and teaches you tricks to write blindingly fast code. You'll also discover parallel and concurrent programming. Filled to the brim with real-life use-cases and scenarios, you'll go beyond the Rust syntax and see what Rust has to offer in real-world use cases.
+
 
 **Advanced Books**
 ---

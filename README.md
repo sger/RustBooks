@@ -117,7 +117,7 @@ The Rust Programming Language is the official book on Rust; a community-develope
 
 ### [Rust Essentials - Second Edition](https://www.packtpub.com/application-development/rust-essentials-second-edition) 
 
-<img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B08304%20_cover.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B08304.png" width="120px"/>
 
 This book starts off with an argumentation of Rust's unique place in today's landscape of programming languages. Install Rust and learn how to work with its package manager Cargo. The various concepts are introduced step by step: variables, types, functions, and control structures to lay the groundwork. Then explore more structured data such as strings, arrays, and enums, and see how pattern matching works.
 

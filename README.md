@@ -91,7 +91,7 @@ Get familiar with writing programs in the trending new systems programming langu
 
 Rust in Action introduces the Rust programming language by exploring numerous systems programming concepts and techniques.You'll be learning Rust by delving into how computers work under the hood. You'll find yourself playing with persistent storage, memory, networking and even tinkering with CPU instructions. The book takes you through using Rust to extend other applications and teaches you tricks to write blindingly fast code. You'll also discover parallel and concurrent programming. Filled to the brim with real-life use-cases and scenarios, you'll go beyond the Rust syntax and see what Rust has to offer in real-world use cases.
 
-### [Pain Points - A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/print.html) *Free*
+### [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/print.html) *Free*
 
 <img src="https://stevedonovan.github.io/rust-gentle-intro/PPrustS.png" width="120px"/>
 

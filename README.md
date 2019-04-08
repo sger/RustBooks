@@ -115,13 +115,15 @@ Should you wish a long and happy career of writing Rust programs, you should tur
 
 This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 
-### [Mastering Rust](https://www.packtpub.com/application-development/mastering-rust)
+### [Mastering Rust 2nd Edition](https://www.packtpub.com/application-development/mastering-rust-second-edition)
 
-<img src="https://www.packtpub.com/sites/default/files/B05023.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/9781789346572-%20Copy.png" width="120px"/>
 
-If concurrent programs are giving you sleepless nights, Rust is your go-to language. Filled with real-world examples and explanations, this book will show you how you can build scalable and reliable programs for your organization.
+Rust is an empowering language that provides a rare combination of safety, speed, and zero-cost abstractions. Mastering Rust – Second Edition is filled with clear and simple explanations of the language features along with real-world examples, showing you how you can build robust, scalable, and reliable programs.
 
-We’ll teach you big level concepts that make Rust a great language. Improving performance, using generics, building macros, and working with threads are just some of the topics we’ll cover. We’ll talk about the official toolsets and ways to discover more. The book contains a mix of theory interspersed with hands-on tasks so you acquire the skills as well as the knowledge. Since programming cannot be learned by just reading, we provide exercises (and solutions) to hammer the concepts in.
+This second edition of the book improves upon the previous one and touches on all aspects that make Rust a great language. We have included the features from latest Rust 2018 edition such as the new module system, the smarter compiler, helpful error messages, and the stable procedural macros. You’ll learn how Rust can be used for systems programming, network programming, and even on the web. You’ll also learn techniques such as writing memory-safe code, building idiomatic Rust libraries, writing efficient asynchronous networking code, and advanced macros. The book contains a mix of theory and hands-on tasks so you acquire the skills as well as the knowledge, and it also provides exercises to hammer the concepts in.
+
+After reading this book, you will be able to implement Rust for your enterprise projects, write better tests and documentation, design for performance, and write idiomatic Rust code.
 
 ### [The Rust Programming Language](https://www.nostarch.com/Rust)
 

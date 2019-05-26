@@ -199,7 +199,7 @@ This book is an attempt to distil the Rust community's collective knowledge of R
 
 ### [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust)
 
-<img src="https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51Fh6vCPQlL._SX258_BO1,204,203,200_.jpg" width="120px"/>
 
 The book begins with an introduction to Rust data structures and algorithms, while also covering essential language constructs. You will learn how to store data using linked lists, arrays, stacks, and queues. You will also learn how to implement sorting and searching algorithms. You will learn how to attain high performance by implementing algorithms to string data types and implement hash structures in algorithm design. The book will examine algorithm analysis, including Brute Force algorithms, Greedy algorithms, Divide and Conquer algorithms, Dynamic Programming, and Backtracking.
 

@@ -103,7 +103,7 @@ The big difference from C and C++ is that Rust is safe by default; all memory ac
 **Advanced Books**
 ---
 
-### [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+### [The Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/) *Free*
 
 This book digs into all the awful details that are necessary to understand in order to write correct Unsafe Rust programs. Due to the nature of this problem, it may lead to unleashing untold horrors that shatter your psyche into a billion infinitesimal fragments of despair.
 

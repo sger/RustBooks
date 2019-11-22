@@ -87,9 +87,11 @@ Get familiar with writing programs in the trending new systems programming langu
 
 ### [Rust in Action [MEAP]](https://www.manning.com/books/rust-in-action)
 
-<img src="https://images.manning.com/720/960/resize/book/4/099dd58-033f-4bec-b296-a82b49b20f3e/McNamara-Rust-MEAP-HI.png" width="120px"/>
+<img src="https://images.manning.com/720/960/resize/book/5/17c1124-214f-4307-b4fe-fd961a9a31f4/McNamara-Rust-MEAP-HI.png" width="120px"/>
 
-Rust in Action introduces the Rust programming language by exploring numerous systems programming concepts and techniques.You'll be learning Rust by delving into how computers work under the hood. You'll find yourself playing with persistent storage, memory, networking and even tinkering with CPU instructions. The book takes you through using Rust to extend other applications and teaches you tricks to write blindingly fast code. You'll also discover parallel and concurrent programming. Filled to the brim with real-life use-cases and scenarios, you'll go beyond the Rust syntax and see what Rust has to offer in real-world use cases.
+Rust in Action is a book for intermediate programmers who want to explore the world of the Rust programming language. It's intended for people who may have exhausted the free material on the web, but who still want to learn more. It's is different from other material on Rust programming because it also teaches you about systems programming along the way. You'll be able to learn more about how a CPU works, how computers keep time, what pointers are and how your network card and keyboard tell the CPU that they have input ready to read.
+
+It’s actually unique from the point of view of systems programming books too - as almost every example works on Windows! If you are the kind of learner who enjoys worked examples, you'll enjoy reading this book.
 
 ### [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) *Free*
 

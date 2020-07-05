@@ -221,6 +221,22 @@ This Learning Path includes content from the following Packt products:
 * Mastering Rust - Second Edition by Rahul Sharma and Vesa Kaihlavirta
 * Hands-On Data Structures and Algorithms with Rust by Claus Matzinger
 
+### [Creative Projects for Rust Programmers](https://www.packtpub.com/programming/creative-projects-for-rust-programmers)
+
+<img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781789346220-original_125.png" width="120px"/>
+
+A practical guide to understanding the latest features of the Rust programming language, useful libraries, and frameworks that will help you design and develop interesting projects
+
+Learn:
+
+* Access TOML, JSON, and XML files and SQLite, PostgreSQL, and Redis databases
+* Develop a RESTful web service using JSON payloads
+* Create a web application using HTML templates and JavaScript and a frontend web application or web game using WebAssembly
+* Build desktop 2D games
+* Develop an interpreter and a compiler for a programming language
+* Create a machine language emulator
+* Extend the Linux Kernel with loadable modules
+
 **Resources**
 ====
 

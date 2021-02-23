@@ -169,6 +169,25 @@ At times, it is difficult to get the best performance out of Rust. This book tea
 
 The book begins with a gentle introduction to help you identify bottlenecks when programming in Rust. We highlight common performance pitfalls, along with strategies to detect and resolve these issues early. We move on to mastering Rust's type system, which will enable us to create impressive optimizations in both performance and safety at compile time. You will then learn how to effectively manage memory in Rust, mastering the borrow checker. We move on to measuring performance and you will see how this affects the way you write code. Moving ahead, you will perform metaprogramming in Rust to boost the performance of your code and your productivity. You will finally learn parallel programming in Rust, which enables efficient and faster execution by using multithreading and asynchronous programming.
 
+### [Zero To Production In Rust](https://zero2prod.com)
+
+<img src="https://www.zero2prod.com/assets/img/book2.png" width="120px"/>
+
+If you want to learn how to use Rust for backend development, this is the place.
+
+Rust's adoption is at an all-time high: more and more companies are trying it out and hiring for it.  
+If you are interested in building APIs with Rust, **Zero To Production** is the ideal starting point for your Rust journey.  
+You will learn by doing: we will start from scratch and build together, step by step, a fully functional email newsletter backend API.  
+
+You'll learn how to:
+
+  * Navigate and leverage Rust's crates ecosystem
+  * Structure your application to make it modular and extensible
+  * Write tests, from single units to full-blown integration tests
+  * Model your domain using the type system to enforce invariants
+  * Collect logs, traces and metrics to observe the state of your application
+  * Set up a robust continuous integration and continuous deployment pipeline for your Rust projects
+
 ### [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 
 <img src="https://i.ibb.co/ccL8zzC/khrust.jpg" width="120px"/>

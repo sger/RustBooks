@@ -127,9 +127,9 @@ This book digs into all the awful details that are necessary to understand in or
 
 Should you wish a long and happy career of writing Rust programs, you should turn back now and forget you ever saw this book. It is not necessary. However, if you intend to write unsafe code -- or just want to dig into the guts of the language -- this book contains invaluable information.
 
-### [Programming Rust](http://shop.oreilly.com/product/0636920040385.do)
+### [Programming Rust 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
-<img src="http://akamaicovers.oreilly.com/images/0636920040385/rc_cat.gif" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781492052586/250w/" width="120px"/>
 
 This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 

@@ -85,9 +85,9 @@ Over the course of this book, you’ll explore various features of Rust Programm
 
 Get familiar with writing programs in the trending new systems programming language that brings together the powerful performance of low-level languages with the advanced features like thread safety in multi-threaded code.
 
-### [Rust in Action [MEAP]](https://www.manning.com/books/rust-in-action)
+### [Rust in Action](https://www.manning.com/books/rust-in-action)
 
-<img src="https://images.manning.com/720/960/resize/book/5/17c1124-214f-4307-b4fe-fd961a9a31f4/McNamara-Rust-MEAP-HI.png" width="120px"/>
+<img src="https://images.manning.com/360/480/resize/book/b/5b94de7-93ef-4650-bc58-5485bfc1e82c/McNamara-Rust-HI.png" width="120px"/>
 
 Rust in Action is a book for intermediate programmers who want to explore the world of the Rust programming language. It's intended for people who may have exhausted the free material on the web, but who still want to learn more. It's is different from other material on Rust programming because it also teaches you about systems programming along the way. You'll be able to learn more about how a CPU works, how computers keep time, what pointers are and how your network card and keyboard tell the CPU that they have input ready to read.
 
@@ -127,9 +127,9 @@ This book digs into all the awful details that are necessary to understand in or
 
 Should you wish a long and happy career of writing Rust programs, you should turn back now and forget you ever saw this book. It is not necessary. However, if you intend to write unsafe code -- or just want to dig into the guts of the language -- this book contains invaluable information.
 
-### [Programming Rust](http://shop.oreilly.com/product/0636920040385.do)
+### [Programming Rust 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
-<img src="http://akamaicovers.oreilly.com/images/0636920040385/rc_cat.gif" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781492052586/250w/" width="120px"/>
 
 This practical book introduces systems programmers to Rust, the new and cutting-edge language. You’ll learn how Rust offers the rare and valuable combination of statically verified memory safety and low-level control—imagine C++, but without dangling pointers, null pointer dereferences, leaks, or buffer overruns.
 

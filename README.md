@@ -117,6 +117,12 @@ Rust Web Development is a hands-on guide to building server-based web applicatio
 
 You can hand this book over to your newly hired developer and onboard them with this book. It contains very practical examples and patterns, and serves as a solid foundation for future exploration into the topic.
 
+### [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
+
+<img src="https://drive.google.com/file/d/1z-29tjI0VH-184_XwV_b3WNgE3b-8BYJ/view" width="120px" />
+
+Refactoring to Rust teaches you to combine your favorite programming language with high-performance Rust code. Author Lily Mara introduces Rust in her easy-to-read style, clearly explaining the language's unique syntax and concepts. You’ll augment programs with Rust hands-on with approachable examples like solving FizzBuzz with Rust’s pattern matching and gaining enormous runtime speedups to Python code. When you’re done, you’ll have mastered techniques for building Rust plugins you can apply to all kinds of existing software, from games to data tools.
+
 
 **Advanced Books**
 ---

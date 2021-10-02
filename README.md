@@ -27,6 +27,10 @@ I will assume some familiarity with programming, and hence not explain the basic
 
 Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries. To get even more out of these examples, don't forget to [install Rust locally](http://www.rust-lang.org/install.html) and check out the [official docs](http://doc.rust-lang.org/std/). Additionally for the curious, you can also [check out the source code for this site](https://github.com/rust-lang/rust-by-example).
 
+### [Easy Rust](https://dhghomon.github.io/easy_rust/) *Free*
+
+Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
+
 ### [Why Rust?](http://www.oreilly.com/programming/free/why-rust.csp)
 
 <img src="http://covers.oreillystatic.com/images/0636920040446/cat.gif" width="120px"/>

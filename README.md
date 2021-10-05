@@ -23,7 +23,7 @@ This is Rust-101, a small tutorial for the Rust language. It is intended to be a
 If you have any questions that are not answered here, check out the "Additional Resources" below. In particular, the IRC channel is filled with awesome people willing to help you! I spent lots of time there ;-)
 I will assume some familiarity with programming, and hence not explain the basic concepts common to most languages. Instead, I will focus on what makes Rust special.
 
-### [Rust by Example](http://rustbyexample.com/) *Free*
+### [Rust by Example](https://doc.rust-lang.org/rust-by-example/) *Free*
 
 Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries. To get even more out of these examples, don't forget to [install Rust locally](http://www.rust-lang.org/install.html) and check out the [official docs](http://doc.rust-lang.org/std/). Additionally for the curious, you can also [check out the source code for this site](https://github.com/rust-lang/rust-by-example).
 

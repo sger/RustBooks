@@ -275,7 +275,7 @@ Learn:
 * Extend the Linux Kernel with loadable modules
 
 
-###[Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+### [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 
 For developers who’ve mastered the basics, this book is the next step on your way to professional-level programming in Rust. It covers everything you need to build and maintain larger codebases, write powerful and flexible applications and libraries, and confidently expand the scope and complexity of your projects.
 

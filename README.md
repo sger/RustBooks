@@ -274,8 +274,9 @@ Learn:
 * Create a machine language emulator
 * Extend the Linux Kernel with loadable modules
 
-
 ### [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+
+<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/RustforRustaceans_cover.png" width="120px"/>
 
 For developers who’ve mastered the basics, this book is the next step on your way to professional-level programming in Rust. It covers everything you need to build and maintain larger codebases, write powerful and flexible applications and libraries, and confidently expand the scope and complexity of your projects.
 
@@ -291,10 +292,6 @@ You'll Learn:
     6)How to write Rust code that can interoperate with non-Rust libraries and systems, or run in constrained and embedded environments 
 
 Brimming with practical, pragmatic insights that you can immediately apply, Rust for Rustaceans helps you do more with Rust, while also teaching you its underlying mechanisms.
-
-This book is yet to be released, its early-access version which covers a major part is available
-
-
 
 **Resources**
 ====

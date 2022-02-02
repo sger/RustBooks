@@ -137,6 +137,12 @@ This book digs into all the awful details that are necessary to understand to wr
 
 Should you wish a long and happy career of writing Rust programs, you should turn back now and forget you ever saw this book. It is not necessary. However, if you intend to write unsafe code -- or just want to dig into the guts of the language -- this book contains invaluable information.
 
+### [Rust Patterns](https://rust-unofficial.github.io/patterns/) *Free*
+
+There are many problems that share the same form. Due to the fact that Rust is not object-oriented, design patterns vary with respect to other object-oriented programming languages. While the details are different, since they have the same form they can be solved using the same fundamental methods.
+
+This book collects social norms of the community and demonstrates methods to solve common problems and reveals common pitfalls you will stuble upon when writing software in Rust.
+
 ### [Programming Rust 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
 <img src="https://learning.oreilly.com/library/cover/9781492052586/250w/" width="120px"/>

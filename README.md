@@ -280,6 +280,16 @@ Learn:
 * Create a machine language emulator
 * Extend the Linux Kernel with loadable modules
 
+### [Black Hat Rust](https://kerkour.com/black-hat-rust/)
+
+<img src="https://kerkour.com/imgs/black_hat_rust_cover.png" width="120px"/>
+
+Applied offensive security with the Rust programming language, While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.  
+
+What are the motivations of the attackers? How can they break seemingly so easily into any network? What do they do to their victims? We will put on our black hat and explore the world of offensive security, whether it be cyber attacks, cybercrimes, or cyberwar. Scanners, exploits, phishing toolkit, implants… From theory to practice, we will explore the arcane of offensive security and build our own offensive tools with the Rust programming language, Stack Overflow’s most loved language for five years in a row.  
+
+Which programming language allows to craft shellcodes, build servers, create phishing pages? Before Rust, none! Rust is the long-awaited one-size-fits-all programming language meeting all those requirements thanks to its unparalleled guarantees and feature set.
+
 ### [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 
 <img src="https://nostarch.com/sites/default/files/styles/uc_product/public/RustforRustaceans_cover.png" width="120px"/>

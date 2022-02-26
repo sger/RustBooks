@@ -53,7 +53,7 @@ Beginning Rust starts with the basics of Rust, including how to name objects, co
 
 Only basic knowledge of programming is required, preferably in C or C++. To understand this book, it's enough to know what integers and floating-point numbers are, and to distinguish identifiers from string literals.
 
-### [Rust Cookbook](https://www.amazon.com/Rust-Cookbook-Understand-management-concurrency-ebook/dp/B06X41VMMS) 
+### [Rust Cookbook](https://www.amazon.co.jp/Rust-Cookbook-Understand-management-concurrency/dp/178588025X) 
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/516rEveOb2L._SX258_BO1,204,203,200_.jpg" width="120px"/>
 

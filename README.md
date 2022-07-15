@@ -309,6 +309,22 @@ You'll Learn:
 
 Brimming with practical, pragmatic insights that you can immediately apply, Rust for Rustaceans helps you do more with Rust, while also teaching you its underlying mechanisms.
 
+### [Rust Crash Course](https://amzn.to/3P8Gxuz)
+
+<img src="https://cdn.shopify.com/s/files/1/0514/0014/7144/products/576_front_775x975.jpg">
+
+Rust is a sophisticated systems programming language for speed, memory safety, and parallelism. This book gives you a fast introduction to Rust so that you may get started with low-level system programming and developing web applications, network services, and embedded programmes.
+
+The book begins with instructions on setting up the Rust environment, developing a "hello world" programme, and getting started with cargo, the Rust package manager and the build tool. The book is a crash course, although it covers fundamental programming principles like variables and mutability, data types, comments, and control flow. Very precisely, topics such as ownership, borrowing, structs, enums, and other collections are covered. Error handling, memory management, and concurrency are well-demonstrated using practical projects. The book explains how to construct automated tests, write multithreaded applications, and utilise common data structures without difficulty. The book concludes with several hands-on projects, including creating a CLI application, a web app, a binary image classifier, and an embedded programme.
+
+You'll learn:
+
+● Learn Rust's Cargo, fundamental concepts, collections, generic data types, iterators, and closures.
+● Learn to write and experience the working of memory-safe programs.
+● Implement and practice various data structures and algorithms.
+
+This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
+
 **Resources**
 ====
 

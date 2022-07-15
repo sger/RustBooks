@@ -311,7 +311,7 @@ Brimming with practical, pragmatic insights that you can immediately apply, Rust
 
 ### [Rust Crash Course](https://amzn.to/3P8Gxuz)
 
-<img src="https://cdn.shopify.com/s/files/1/0514/0014/7144/products/576_front_775x975.jpg">
+<img src="https://cdn.shopify.com/s/files/1/0514/0014/7144/products/576_front_775x975.jpg" width="120px"/>
 
 Rust is a sophisticated systems programming language for speed, memory safety, and parallelism. This book gives you a fast introduction to Rust so that you may get started with low-level system programming and developing web applications, network services, and embedded programmes.
 
@@ -319,9 +319,9 @@ The book begins with instructions on setting up the Rust environment, developing
 
 You'll learn:
 
-● Learn Rust's Cargo, fundamental concepts, collections, generic data types, iterators, and closures.
-● Learn to write and experience the working of memory-safe programs.
-● Implement and practice various data structures and algorithms.
+1) Learn Rust's Cargo, fundamental concepts, collections, generic data types, iterators, and closures.
+2) Learn to write and experience the working of memory-safe programs.
+3) Implement and practice various data structures and algorithms.
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 

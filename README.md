@@ -45,7 +45,7 @@ Rust is a highly concurrent and high-performance language that focuses on safety
 
 ### [Beginning Rust - From Novice to Professional](https://www.apress.com/us/book/9781484234679) 
 
-<img src="https://images.springer.com/sgw/books/medium/9781484234679.jpg" width="120px"/>
+<img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-3468-6" width="120px"/>
 
 Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.  
 
@@ -61,7 +61,7 @@ This book will help you understand the core concepts of the Rust language, enabl
 
 ### [Rust Standard Library Cookbook](https://www.amazon.com/Rust-Standard-Library-Cookbook-leverage/dp/1788623924)
 
-<img src="https://cv02.twirpx.net/2498/2498730.jpg?t=20180404030227" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51mi9EEU6pL.jpg" width="120px"/>
 
 Mozilla’s Rust is gaining much attention with amazing features and a powerful library. This book will take you through varied recipes to teach you how to leverage the Standard library to implement efficient solutions.
 
@@ -107,7 +107,7 @@ The big difference from C and C++ is that Rust is safe by default; all memory ac
 
 ### [Practical Machine Learning with Rust: Creating Intelligent Applications in Rust](https://www.amazon.com/Practical-Machine-Learning-Rust-Applications/dp/1484251202)
 
-<img src="https://images.springer.com/sgw/books/medium/9781484251201.jpg" width="120px"/>
+<img src="https://github.com/Apress/practical-machine-learning-w-rust/blob/master/9781484251201.jpg" width="120px"/>
 
 Machine Learning in Rust has been neglected for quite some time by the community. With many disparate crates scattered through the cosmos, this book is an attempt at unifying all the information and usages that are out there and kind of shake the community into action. Data is the new frontier and Rust has to be a part of that.
 
@@ -123,7 +123,7 @@ You can hand this book over to your newly hired developer and onboard them with 
 
 ### [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
 
-<img src="https://drive.google.com/file/d/1z-29tjI0VH-184_XwV_b3WNgE3b-8BYJ/view" width="120px" />
+<img src="https://images.manning.com/192/256/resize/book/f/6b2c7cf-d21a-4c6f-b243-8cc9b635a6c6/Mara-RR-MEAP-HI.png" width="120px" />
 
 Refactoring to Rust teaches you to combine your favorite programming language with high-performance Rust code. Author Lily Mara introduces Rust in her easy-to-read style, clearly explaining the language's unique syntax and concepts. You’ll augment programs with Rust hands-on with approachable examples like solving FizzBuzz with Rust’s pattern matching and gaining enormous runtime speedups to Python code. When you’re done, you’ll have mastered techniques for building Rust plugins you can apply to all kinds of existing software, from games to data tools.
 

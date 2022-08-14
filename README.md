@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/sger/RustBooks.svg?branch=master)](https://travis-ci.org/sger/RustBooks)
+Awesome Rust Books [![Build Status](https://github.com/sger/RustBooks/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/sger/RustBooks/actions/workflows/main.yml) [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+====
 
 Rust Books
 ====
@@ -25,27 +26,27 @@ I will assume some familiarity with programming, and hence not explain the basic
 
 ### [Rust by Example](https://doc.rust-lang.org/rust-by-example/) *Free*
 
-Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries. To get even more out of these examples, don't forget to [install Rust locally](http://www.rust-lang.org/install.html) and check out the [official docs](http://doc.rust-lang.org/std/). Additionally for the curious, you can also [check out the source code for this site](https://github.com/rust-lang/rust-by-example).
+Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries. To get even more out of these examples, don't forget to [install Rust locally](https://www.rust-lang.org/tools/install) and check out the [official docs](https://doc.rust-lang.org/std/). Additionally for the curious, you can also [check out the source code for this site](https://github.com/rust-lang/rust-by-example).
 
 ### [Easy Rust](https://dhghomon.github.io/easy_rust/) *Free*
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
 
-### [Why Rust?](http://www.oreilly.com/programming/free/why-rust.csp)
+### [Why Rust?](https://www.oreilly.com/library/view/why-rust/9781492048589/)
 
-<img src="http://covers.oreillystatic.com/images/0636920040446/cat.gif" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781492048589/250w/" width="120px"/>
 
 While systems programming languages have greatly evolved since the introduction of C more than 40 years ago, our capacity for dumb mistakes with enormous consequences has remained unchanged, with vivid examples regularly in the news. This O'Reilly report examines Rust, a new systems programming language that combines safety and security with performance on a par with C and C++.
 
-### [Learning Rust](https://www.amazon.com/Learning-Rust-comprehensive-writing-applications/dp/1785884301)
+### [Learning Rust](https://www.packtpub.com/product/learning-rust/9781785884306)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41RBJ0J9WOL._SX258_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781785884306/cover/smaller" width="120px"/>
 
 Rust is a highly concurrent and high-performance language that focuses on safety and speed, memory management, and writing clean code. It also guarantees thread safety, and it aims to improve the performance of existing applications. It has been backed by Mozilla to solve the critical problem of concurrency.
 
-### [Beginning Rust - From Novice to Professional](https://www.apress.com/us/book/9781484234679) 
+### [Beginning Rust - From Novice to Professional](https://www.oreilly.com/library/view/beginning-rust-from/9781484234686/) 
 
-<img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-3468-6" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781484234686/250w/" width="120px"/>
 
 Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.  
 
@@ -53,15 +54,15 @@ Beginning Rust starts with the basics of Rust, including how to name objects, co
 
 Only basic knowledge of programming is required, preferably in C or C++. To understand this book, it's enough to know what integers and floating-point numbers are, and to distinguish identifiers from string literals.
 
-### [Rust Cookbook](https://www.amazon.com/Rust-Cookbook-Understand-management-concurrency/dp/178588025X) 
+### [Rust Cookbook](https://www.packtpub.com/product/rust-cookbook/9781785880254) 
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/516rEveOb2L._SX258_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781785880254/cover/smaller" width="120px"/>
 
 This book will help you understand the core concepts of the Rust language, enabling you to develop efficient and high-performance applications by incorporating features such as zero-cost abstraction and better memory management. Delve into advanced-level concepts such as error handling, macros, crates, and parallelism in Rust. Toward the end of the book, learn how to create HTTP servers and web services, building a strong foundational knowledge in server-side programming and enabling to deliver solutions to build high-performance and safer production-level web applications and services using Rust.
 
-### [Rust Standard Library Cookbook](https://www.amazon.com/Rust-Standard-Library-Cookbook-leverage/dp/1788623924)
+### [Rust Standard Library Cookbook](https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51mi9EEU6pL.jpg" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781788623926/cover/smaller" width="120px"/>
 
 Mozilla’s Rust is gaining much attention with amazing features and a powerful library. This book will take you through varied recipes to teach you how to leverage the Standard library to implement efficient solutions.
 
@@ -69,15 +70,15 @@ The book begins with a brief look at the basic modules of the Standard library a
 
 ### [Network Programming with Rust](https://www.oreilly.com/library/view/network-programming-with/9781788624893/)
 
-<img src="https://www.safaribooksonline.com/library/cover/9781788624893/360h/" width="120px">
+<img src="https://www.oreilly.com/library/cover/9781788624893/360h/" width="120px">
 
 Rust is low-level enough to provide fine-grained control over memory while providing safety through compile-time validation. This makes it uniquely suitable for writing low-level networking applications.
 
 This book is divided into three main parts that will take you on an exciting journey of building a fully functional web server. The book starts with a solid introduction to Rust and essential networking concepts. This will lay a foundation for, and set the tone of, the entire book. In the second part, we will take an in-depth look at using Rust for networking software. From client-server networking using sockets to IPv4/v6, DNS, TCP, UDP, you will also learn about serializing and deserializing data using serde. The book shows how to communicate with REST servers over HTTP. The final part of the book discusses asynchronous network programming using the Tokio stack. Given the importance of security for modern systems, you will see how Rust supports common primitives such as TLS and public-key cryptography.
 
-### [Rust Programming by Example](https://www.amazon.com/Rust-Programming-Example-concurrent-applications/dp/1788390636)
+### [Rust Programming by Example](https://www.packtpub.com/product/rust-programming-by-example/9781788390637)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/416Cm3m8EmL._SX404_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781788390637/cover/smaller" width="120px"/>
 
 Beginning with an introduction to Rust, you’ll learn the basic aspects such as its syntax, data types, functions, generics, control flows, and more. After this, you’ll jump straight into building your first project, a Tetris game. Next, you’ll build a graphical music player and work with fast, reliable networking software using Tokio, the scalable and productive asynchronous IO Rust library.
 
@@ -212,9 +213,9 @@ You'll learn how to:
   * Collect logs, traces and metrics to observe the state of your application
   * Set up a robust continuous integration and continuous deployment pipeline for your Rust projects
 
-### [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+### [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
 
-<img src="https://i.ibb.co/ccL8zzC/khrust.jpg" width="120px"/>
+<img src="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/khrust_hu6d5b8b63a4954cb696e89b39f929331b_994142_500x0_resize_q75_box.jpg" width="120px"/>
 
 WebAssembly is more than just a revolutionary new technology. It’s reshaping how we build applications for the web and beyond. Where technologies like ActiveX and Flash have failed, you can now write code in whatever language you prefer and compile to WebAssembly for fast, type-safe code that runs in the browser, on mobile devices, embedded devices, and more. Combining WebAssembly’s portable, high-performance modules with Rust’s safety and power is a perfect development combination.
 
@@ -280,7 +281,7 @@ Learn:
 * Create a machine language emulator
 * Extend the Linux Kernel with loadable modules
 
-### [Black Hat Rust](https://kerkour.com/black-hat-rust/)
+### [Black Hat Rust](https://kerkour.com/black-hat-rust)
 
 <img src="https://kerkour.com/imgs/black_hat_rust_cover.png" width="120px"/>
 
@@ -332,13 +333,13 @@ This book is intended for software developers and system programmers interested 
 
 ### [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
 
-### [Are We Learning Yet?](http://www.arewelearningyet.com/): List of resources for machine learning in Rust
+### [Are We Learning Yet?](https://www.arewelearningyet.com/): List of resources for machine learning in Rust
 
-### [Are We Web Yet?](http://www.arewewebyet.org/): List of resources for web development in Rust
+### [Are We Web Yet?](https://www.arewewebyet.org/): List of resources for web development in Rust
 
 Contributing
 ====
-Your contributions are always welcome, just follow [the rules](https://github.com/sger/RustBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules](https://github.com/sger/RustBooks/blob/main/CONTRIBUTING.md)!
 
 License
 ====

@@ -194,25 +194,6 @@ At times, it is difficult to get the best performance out of Rust. This book tea
 
 The book begins with a gentle introduction to help you identify bottlenecks when programming in Rust. We highlight common performance pitfalls, along with strategies to detect and resolve these issues early. We move on to mastering Rust's type system, which will enable us to create impressive optimizations in both performance and safety at compile time. You will then learn how to effectively manage memory in Rust, mastering the borrow checker. We move on to measuring performance and you will see how this affects the way you write code. Moving ahead, you will perform metaprogramming in Rust to boost the performance of your code and your productivity. You will finally learn parallel programming in Rust, which enables efficient and faster execution by using multithreading and asynchronous programming.
 
-### [Zero To Production In Rust](https://zero2prod.com)
-
-<img src="https://www.zero2prod.com/assets/img/book2.png" width="120px"/>
-
-If you want to learn how to use Rust for backend development, this is the place.
-
-Rust's adoption is at an all-time high: more and more companies are trying it out and hiring for it.  
-If you are interested in building APIs with Rust, **Zero To Production** is the ideal starting point for your Rust journey.  
-You will learn by doing: we will start from scratch and build together, step by step, a fully functional email newsletter backend API.  
-
-You'll learn how to:
-
-  * Navigate and leverage Rust's crates ecosystem
-  * Structure your application to make it modular and extensible
-  * Write tests, from single units to full-blown integration tests
-  * Model your domain using the type system to enforce invariants
-  * Collect logs, traces and metrics to observe the state of your application
-  * Set up a robust continuous integration and continuous deployment pipeline for your Rust projects
-
 ### [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
 
 <img src="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/khrust_hu6d5b8b63a4954cb696e89b39f929331b_994142_500x0_resize_q75_box.jpg" width="120px"/>
@@ -231,9 +212,9 @@ From basic programming patterns to a peek under the hood of the language, Step A
 
 As you progress through the book, we recommend taking the time to experiment with what is presented in its pages. This book is all about the practical application of Rust, so applying it in practice is expected. The book covers: Cargo, Rust Type System, Iterators, Macros, Ownership, Borrowing and Lifetimes, Unsafe Patterns, Concurrency. A Step Ahead with Rust reader is expected to be a moderately experienced developer looking to improve their Rust development skills.
 
-### [Hands-On Microservices with Rust 2018: How To Build Scalable and Reliable RESTful Microservices](https://www.amazon.co.uk/Hands-Microservices-Rust-2018-Scalable/dp/1789342759/ref=sr_1_6?s=books&ie=UTF8&qid=1545340800&sr=1-6&keywords=rust) *will be published in April 2019*
+### [Hands-On Microservices with Rust 2018: How To Build Scalable and Reliable RESTful Microservices](https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/518eneKG4ML._SX260_.jpg" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781789342758/cover/smaller" width="120px"/>
 
 Microservice architecture is sweeping the world as the de facto pattern to build web-based applications. Rust is a language particularly well suited to building microservices. It is a new system programming language that offers a practical and safe alternative to C.
 
@@ -245,9 +226,9 @@ Finally, you will be taken through examples of how to test and debug microservic
 
 This book is an attempt to distil the Rust community's collective knowledge of Rust macros. The book will introduce Rust's Macro-By-Example system: *macro_rules!*. Rather than trying to cover it based on practical examples, it will instead attempt to give you a complete and thorough explanation of how the system works. As such, this is intended for people who just want the system as a whole explained, rather than be guided through it.
 
-### [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/application-development/hands-data-structures-and-algorithms-rust)
+### [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51Fh6vCPQlL._SX258_BO1,204,203,200_.jpg" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781788995528/cover/smaller" width="120px"/>
 
 The book begins with an introduction to Rust data structures and algorithms, while also covering essential language constructs. You will learn how to store data using linked lists, arrays, stacks, and queues. You will also learn how to implement sorting and searching algorithms. You will learn how to attain high performance by implementing algorithms to string data types and implement hash structures in algorithm design. The book will examine algorithm analysis, including Brute Force algorithms, Greedy algorithms, Divide and Conquer algorithms, Dynamic Programming, and Backtracking.
 
@@ -265,9 +246,9 @@ This Learning Path includes content from the following Packt products:
 * Mastering Rust - Second Edition by Rahul Sharma and Vesa Kaihlavirta
 * Hands-On Data Structures and Algorithms with Rust by Claus Matzinger
 
-### [Creative Projects for Rust Programmers](https://www.packtpub.com/programming/creative-projects-for-rust-programmers)
+### [Creative Projects for Rust Programmers](https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220)
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781789346220-original_125.png" width="120px"/>
+<img src="https://static.packt-cdn.com/products/9781789346220/cover/smaller" width="120px"/>
 
 A practical guide to understanding the latest features of the Rust programming language, useful libraries, and frameworks that will help you design and develop interesting projects
 
@@ -310,7 +291,7 @@ You'll Learn:
 
 Brimming with practical, pragmatic insights that you can immediately apply, Rust for Rustaceans helps you do more with Rust, while also teaching you its underlying mechanisms.
 
-### [Rust Crash Course](https://amzn.to/3P8Gxuz)
+### [Rust Crash Course](https://www.amazon.com/Rust-Crash-Course-High-Performance-Next-Generation/dp/9355510950)
 
 <img src="https://cdn.shopify.com/s/files/1/0514/0014/7144/products/576_front_775x975.jpg" width="120px"/>
 
@@ -329,8 +310,6 @@ This book is intended for software developers and system programmers interested 
 **Resources**
 ====
 
-### [Learn Rust with examples](https://github.com/rust-lang/rust-by-example)
-
 ### [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg)
 
 ### [Are We Learning Yet?](https://www.arewelearningyet.com/): List of resources for machine learning in Rust
@@ -343,4 +322,4 @@ Your contributions are always welcome, just follow [the rules](https://github.co
 
 License
 ====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

@@ -307,6 +307,10 @@ You'll learn:
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 
+### [The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html#the-little-book-of-rust-macros) *Free*
+Not that much books covers this hard topic.
+This book is an attempt to distill the Rust community's collective knowledge of Rust macros, the Macros by Example ones as well as procedural macros(WIP).
+
 **Resources**
 ====
 

@@ -125,6 +125,8 @@ Refactoring to Rust teaches you to combine your favorite programming language wi
 
 ### [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
 
+<img src="https://images.manning.com/book/5/c65bcc6-6fa6-47e3-a140-d33f52c138fd/MacLeod-Rust-MoL-MEAP-hires.png" width="120px" />
+
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
 

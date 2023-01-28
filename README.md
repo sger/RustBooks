@@ -140,6 +140,12 @@ Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficienc
 
 A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice. It includes a section on getting your environment set up, and full code listings for all examples.
 
+### [Hands-on Rust](https://hands-on-rust.com/)
+
+<img src="https://hands-on-rust.com/hwrust-250.jpg" width="120px"/>
+
+Each chapter in this book presents hands-on, practical projects that take you on a journey from "Hello, World" to building a full dungeon crawler game. Start by setting up Rust and getting comfortable with your development environment. Learn the language basics with practical examples as you make your own version of Flappy Bird. Discover what it takes to randomly generate dungeons and populate them with monsters as you build a complete dungeon crawl game. Run game systems concurrently for high-performance and fast game-play, while retaining the ability to debug your program. Unleash your creativity with magical items, tougher monsters, and intricate dungeon design. Add layered graphics and polish your game with style.
+
 
 **Advanced Books**
 ---

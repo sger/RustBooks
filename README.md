@@ -134,6 +134,12 @@ Refactoring to Rust teaches you to combine your favorite programming language wi
 
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
+ ### [Data Analysis with Rust Notebooks](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/) 
+
+<img src="https://datacrayon.com/shop/wp-content/uploads/2020/02/cover_darn.jpg" width="120px"/>
+
+A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice. It includes a section on getting your environment set up, and full code listings for all examples.
+
 
 **Advanced Books**
 ---

@@ -148,6 +148,14 @@ This book will take you through each stage of the web development process, showi
 
 You'll start with an introduction to Rust and understand how to avoid common pitfalls when migrating from traditional dynamic programming languages. The book will show you how to structure Rust code for a project that spans multiple pages and modules. Next, you'll explore the Actix Web framework and get a basic web server up and running. As you advance, you'll learn how to process JSON requests and display data from the web app via HTML, CSS, and JavaScript. You'll also be able to persist data and create RESTful services in Rust. Later, you'll build an automated deployment process for the app on an AWS EC2 instance and Docker Hub. Finally, you'll play around with some popular web frameworks in Rust and compare them.
 
+### [Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
+
+<img src="https://learning.oreilly.com/covers/urn:orm:book:9781098109424/400w/" width="120px" />
+
+Learn how to recreate popular command line tools with Rust using TDD. The first chapter teaches you how to setup, run, add dependencies, and test a project with Cargo; this chapter also teaches you what it means to make a successful command line tool (exit values, POSIX compliance, composability). In the subsequent chapters you will recreate CLTs such as cat, find, tail, grep, cal, and many others. The author describes how to write tests in rusts and will provide test suites in later chapters to assist in developing with TDD. Each chapter introduces a new concept from Rust to assist in creating the CLT.
+
+The book assumes no prior knowledge of Rust, but does require previous programming experience.
+
 **Advanced Books**
 ---
 

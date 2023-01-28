@@ -134,6 +134,23 @@ Refactoring to Rust teaches you to combine your favorite programming language wi
 
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
+### [Zero To Production In Rust](https://www.zero2prod.com)
+
+<img src="https://www.zero2prod.com/assets/img/book2.png" width="120px" />
+
+Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
+
+You'll learn how to:
+
+- Navigate and leverage Rust's crates ecosystem
+- Structure your application to make it modular and extensible
+- Write tests, from single units to full-blown integration tests
+- Enforce your domain invariants using Rust's type system
+- Authenticate and authorize users of your API
+- Implement a robust error handling strategy
+- Observe the state of your application using structured logs
+- Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
+
 
 **Advanced Books**
 ---

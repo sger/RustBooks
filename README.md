@@ -134,18 +134,25 @@ Refactoring to Rust teaches you to combine your favorite programming language wi
 
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
- ### [Data Analysis with Rust Notebooks](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/) 
+### [Data Analysis with Rust Notebooks](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/) 
 
 <img src="https://datacrayon.com/shop/wp-content/uploads/2020/02/cover_darn.jpg" width="120px"/>
 
 A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice. It includes a section on getting your environment set up, and full code listings for all examples.
 
+### [Rust Web Programming ](https://www.packtpub.com/product/rust-web-programming/)
+
+<img src="https://static.packt-cdn.com/products/9781800560819/cover/smaller" width="120px"/>
+
+This book will take you through each stage of the web development process, showing you how to combine Rust and modern web development principles to build supercharged web apps.
+
+You'll start with an introduction to Rust and understand how to avoid common pitfalls when migrating from traditional dynamic programming languages. The book will show you how to structure Rust code for a project that spans multiple pages and modules. Next, you'll explore the Actix Web framework and get a basic web server up and running. As you advance, you'll learn how to process JSON requests and display data from the web app via HTML, CSS, and JavaScript. You'll also be able to persist data and create RESTful services in Rust. Later, you'll build an automated deployment process for the app on an AWS EC2 instance and Docker Hub. Finally, you'll play around with some popular web frameworks in Rust and compare them.
+
 ### [Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
 
 <img src="https://learning.oreilly.com/covers/urn:orm:book:9781098109424/400w/" width="120px" />
 
-Learn how to recreate popular command line tools with Rust using TDD. The first
-chapter teaches you how to setup, run, add dependencies, and test a project with Cargo; this chapter also teaches you what it means to make a successful command line tool (exit values, POSIX compliance, composability). In the subsequent chapters you will recreate CLTs such as cat, find, tail, grep, cal, and many others. The author describes how to write tests in rusts and will provide test suites in later chapters to assist in developing with TDD. Each chapter introduces a new concept from Rust to assist in creating the CLT.
+Learn how to recreate popular command line tools with Rust using TDD. The first chapter teaches you how to setup, run, add dependencies, and test a project with Cargo; this chapter also teaches you what it means to make a successful command line tool (exit values, POSIX compliance, composability). In the subsequent chapters you will recreate CLTs such as cat, find, tail, grep, cal, and many others. The author describes how to write tests in rusts and will provide test suites in later chapters to assist in developing with TDD. Each chapter introduces a new concept from Rust to assist in creating the CLT.
 
 The book assumes no prior knowledge of Rust, but does require previous programming experience.
 

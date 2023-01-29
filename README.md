@@ -156,6 +156,23 @@ Learn how to recreate popular command line tools with Rust using TDD. The first 
 
 The book assumes no prior knowledge of Rust, but does require previous programming experience.
 
+### [Zero To Production In Rust](https://www.zero2prod.com)
+
+<img src="https://www.zero2prod.com/assets/img/book2.png" width="120px" />
+
+Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
+
+You'll learn how to:
+
+- Navigate and leverage Rust's crates ecosystem
+- Structure your application to make it modular and extensible
+- Write tests, from single units to full-blown integration tests
+- Enforce your domain invariants using Rust's type system
+- Authenticate and authorize users of your API
+- Implement a robust error handling strategy
+- Observe the state of your application using structured logs
+- Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
+
 **Advanced Books**
 ---
 

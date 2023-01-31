@@ -368,6 +368,8 @@ This book is intended for software developers and system programmers interested 
 
 ### [Are We Web Yet?](https://www.arewewebyet.org/): List of resources for web development in Rust
 
+### [Areweyet List of Lists](https://wiki.mozilla.org/Areweyet): List of "Are we ... yet?" websites hosted on Mozilla's Wiki
+
 Contributing
 ====
 Your contributions are always welcome, just follow [the rules](https://github.com/sger/RustBooks/blob/main/CONTRIBUTING.md)!

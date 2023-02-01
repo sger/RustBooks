@@ -162,6 +162,23 @@ The book assumes no prior knowledge of Rust, but does require previous programmi
 
 Each chapter in this book presents hands-on, practical projects that take you on a journey from "Hello, World" to building a full dungeon crawler game. Start by setting up Rust and getting comfortable with your development environment. Learn the language basics with practical examples as you make your own version of Flappy Bird. Discover what it takes to randomly generate dungeons and populate them with monsters as you build a complete dungeon crawl game. Run game systems concurrently for high-performance and fast game-play, while retaining the ability to debug your program. Unleash your creativity with magical items, tougher monsters, and intricate dungeon design. Add layered graphics and polish your game with style.
 
+### [Zero To Production In Rust](https://www.zero2prod.com)
+
+<img src="https://www.zero2prod.com/assets/img/book2.png" width="120px" />
+
+Zero To Production is the ideal starting point for your journey as a Rust backend developer. You will learn by doing: you will build a fully functional email newsletter API, starting from scratch.
+
+You'll learn how to:
+
+- Navigate and leverage Rust's crates ecosystem
+- Structure your application to make it modular and extensible
+- Write tests, from single units to full-blown integration tests
+- Enforce your domain invariants using Rust's type system
+- Authenticate and authorize users of your API
+- Implement a robust error handling strategy
+- Observe the state of your application using structured logs
+- Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
+
 **Advanced Books**
 ---
 
@@ -356,6 +373,8 @@ This book is intended for software developers and system programmers interested 
 ### [Are We Learning Yet?](https://www.arewelearningyet.com/): List of resources for machine learning in Rust
 
 ### [Are We Web Yet?](https://www.arewewebyet.org/): List of resources for web development in Rust
+
+### [Areweyet List of Lists](https://wiki.mozilla.org/Areweyet): List of "Are we ... yet?" websites hosted on Mozilla's Wiki
 
 Contributing
 ====

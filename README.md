@@ -156,6 +156,12 @@ Learn how to recreate popular command line tools with Rust using TDD. The first 
 
 The book assumes no prior knowledge of Rust, but does require previous programming experience.
 
+### [Hands-on Rust](https://hands-on-rust.com/)
+
+<img src="https://hands-on-rust.com/hwrust-250.jpg" width="120px"/>
+
+Each chapter in this book presents hands-on, practical projects that take you on a journey from "Hello, World" to building a full dungeon crawler game. Start by setting up Rust and getting comfortable with your development environment. Learn the language basics with practical examples as you make your own version of Flappy Bird. Discover what it takes to randomly generate dungeons and populate them with monsters as you build a complete dungeon crawl game. Run game systems concurrently for high-performance and fast game-play, while retaining the ability to debug your program. Unleash your creativity with magical items, tougher monsters, and intricate dungeon design. Add layered graphics and polish your game with style.
+
 ### [Zero To Production In Rust](https://www.zero2prod.com)
 
 <img src="https://www.zero2prod.com/assets/img/book2.png" width="120px" />

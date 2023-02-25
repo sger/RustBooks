@@ -106,7 +106,7 @@ Rust is a statically and strongly typed systems programming language. statically
 
 The big difference from C and C++ is that Rust is safe by default; all memory accesses are checked. It is not possible to corrupt memory by accident.
 
-###[Introduction to Rust for Python programmers (Korean, 한국어)](https://indosaram.github.io/rust-python-book/) 
+### [Introduction to Rust for Python programmers (Korean, 한국어)](https://indosaram.github.io/rust-python-book/) 
 
 The book introduces various Rusts examples and their equivalents of Python, to help understanding the core concepts of the Rust lanugage.
 

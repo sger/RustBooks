@@ -198,6 +198,12 @@ There are many problems that share the same form. Due to the fact that Rust is n
 
 This book collects social norms of the community and demonstrates methods to solve common problems and reveals common pitfalls you will stuble upon when writing software in Rust.
 
+### [Effective Rust](https://www.lurklurk.org/effective-rust/) *Free*
+
+Scott Meyers' original Effective C++ book was phenomenally successful because it introduced a new style of programming book, focused on a collection of guidelines that had been learned from real world experience of creating software in C++. Significantly, those guidelines were explained in the context of the reasons why they were necessary – allowing the reader to decide for themselves whether their particular scenario warranted breaking the rules.
+
+This book is aimed at a slightly different level than other Effective <Language> books; there are more Items that cover the concepts that are new with Rust, even though the official documentation already includes good introductions of these topics. These Items have titles like "Understand…" and "Familiarize yourself with…".
+
 ### [Programming Rust 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
 <img src="https://learning.oreilly.com/library/cover/9781492052586/250w/" width="120px"/>

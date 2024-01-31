@@ -183,6 +183,14 @@ You'll learn how to:
 - Observe the state of your application using structured logs
 - Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
 
+### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns)
+
+<img src="https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png" />
+
+Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
+
+Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
+
 **Advanced Books**
 ---
 

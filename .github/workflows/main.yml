@@ -1,14 +1,18 @@
+name: Links
+
 on:
+  push:
+    branches: main
   pull_request:
-    branches: [main]
-    paths:
-      - 'readme.md'
+    branches: main
+  
 jobs:
-  lint:
+  linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1
         with:
-          fetch-depth: 0
-      - name: awesome-lint
-        run: ./.github/workflows/lint.sh
+          fail: true
+          args: --accept 401,403 './**/*.md'

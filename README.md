@@ -183,6 +183,12 @@ You'll learn how to:
 - Observe the state of your application using structured logs
 - Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
 
+### [Write Powerful Rust Macros](https://www.manning.com/books/write-powerful-rust-macros)
+
+<img src="https://images.manning.com/book/4/d33e139-a73e-4206-b457-6fa024449e33/McNamara-Rust-HI.png" width="120px" />
+
+Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. You’ll start your journey with declarative macros, then quickly move on to the powerful procedural macros to build your own domain-specific language. Learn how to create public fields, work with custom attributes, integrate your macros with other crates, write effective tests to ensure your macros are reliable and bug-free, and even share your macros with other developers.
+
 **Advanced Books**
 ---
 

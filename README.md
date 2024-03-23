@@ -375,6 +375,28 @@ You'll learn:
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 
+### [The Burn Book](https://burn.dev/book/overview.html) *Free*
+
+This book will help you get started with the Burn deep learning framework.
+If you know Pytorch Burn will probably seem familiar to you.
+**The book assumes a basic understanding of deep learning concepts.**
+
+Burn places a significant emphasis on making the right compromises in the right areas to facilitate exceptional flexibility, high performance, and a seamless developer experience. Burn is designed to serve as a versatile framework suitable for a wide range of research and production uses. 
+
+**Target Audience**:
+
+* **Machine Learning Researchers**: Enhanced experiment construction and execution, with rapid idea iteration and swift testing.
+* **Machine Learning Engineers**: Develop robust, cost-effective models, ensuring seamless deployment and economic efficiency. 
+* **Low level Software Engineers**: Leverage hardware-specific features ensuring precise control over computation.
+
+**Core Learning Modules**:
+
+* **Basic Workflow**: From Training to Inference: The fundamentals, guiding you through the entire workflow, from training your models to deploying them for inference.
+* **Building Blocks**: Burn's core components, understanding how they fit together to form the basis for more advanced usage and customization.
+* **Custom Training Loop**: How to customize your training loops, fine-tuning your models to meet your specific requirements. 
+* **Import ONNX Model**: Learn how to seamlessly import models from ONNX, expanding your compatibility with other deep learning ecosystems.
+* **Advanced**: Exploring Burn's capabilities at their peak. This section caters to those who want to push the boundaries of what's possible with Burn.
+
 **Resources**
 ====
 

@@ -138,14 +138,6 @@ Refactoring to Rust teaches you to combine your favorite programming language wi
 
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
-### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns))
-
-<img src="(https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png)" />
-
-Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
-
-Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
-
 ### [Data Analysis with Rust Notebooks](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/) 
 
 <img src="https://datacrayon.com/shop/wp-content/uploads/2020/02/cover_darn.jpg" width="120px"/>
@@ -193,7 +185,7 @@ You'll learn how to:
 
 ### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns)
 
-<img src="https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png" />
+<img src="https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png" width="120px" />
 
 Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
 
@@ -396,14 +388,6 @@ You'll learn:
 3) Implement and practice various data structures and algorithms.
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
-
-### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns)
-
-<img src="(https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png)" width="120px" />
-
-Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
-
-Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
 
 ### [The Burn Book](https://burn.dev/book/overview.html) *Free*
 

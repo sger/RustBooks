@@ -120,7 +120,7 @@ After reading Practical Machine Learning with Rust, you will have a solid unders
 
 ### [Rust Web Development](https://www.manning.com/books/rust-web-development)
 
-<img src="https://freecontent.manning.com/wp-content/uploads/Gruber-HI.jpg" width="120px" />
+<img src="https://images.manning.com/360/480/resize/book/9/57fa437-06ef-4a02-8070-bc33e0800c87/Gruber-HI.png" width="120px" />
 
 Rust Web Development is a hands-on guide to building server-based web applications with Rust. If you’ve built web servers using Java, C#, or PHP, you’ll instantly fall in love with the performance and development experience Rust delivers. This book shows you how to work efficiently using pure Rust, along with important Rust libraries such as tokio for async runtimes, warp for web servers and APIs, and reqwest to run external HTTP requests.
 

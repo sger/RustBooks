@@ -206,6 +206,12 @@ There are many problems that share the same form. Due to the fact that Rust is n
 
 This book collects social norms of the community and demonstrates methods to solve common problems and reveals common pitfalls you will stuble upon when writing software in Rust.
 
+### [Effective Rust](https://www.lurklurk.org/effective-rust/) *Free*
+
+Scott Meyers' original Effective C++ book was phenomenally successful because it introduced a new style of programming book, focused on a collection of guidelines that had been learned from real world experience of creating software in C++. Significantly, those guidelines were explained in the context of the reasons why they were necessary – allowing the reader to decide for themselves whether their particular scenario warranted breaking the rules.
+
+This book is aimed at a slightly different level than other Effective <Language> books; there are more Items that cover the concepts that are new with Rust, even though the official documentation already includes good introductions of these topics. These Items have titles like "Understand…" and "Familiarize yourself with…".
+
 ### [Programming Rust 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
 <img src="https://learning.oreilly.com/library/cover/9781492052586/250w/" width="120px"/>
@@ -384,6 +390,28 @@ This book is intended for software developers and system programmers interested 
 Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
 
 Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
+
+### [The Burn Book](https://burn.dev/book/overview.html) *Free*
+
+This book will help you get started with the Burn deep learning framework.
+If you know Pytorch Burn will probably seem familiar to you.
+**The book assumes a basic understanding of deep learning concepts.**
+
+Burn places a significant emphasis on making the right compromises in the right areas to facilitate exceptional flexibility, high performance, and a seamless developer experience. Burn is designed to serve as a versatile framework suitable for a wide range of research and production uses. 
+
+**Target Audience**:
+
+* **Machine Learning Researchers**: Enhanced experiment construction and execution, with rapid idea iteration and swift testing.
+* **Machine Learning Engineers**: Develop robust, cost-effective models, ensuring seamless deployment and economic efficiency. 
+* **Low level Software Engineers**: Leverage hardware-specific features ensuring precise control over computation.
+
+**Core Learning Modules**:
+
+* **Basic Workflow**: From Training to Inference: The fundamentals, guiding you through the entire workflow, from training your models to deploying them for inference.
+* **Building Blocks**: Burn's core components, understanding how they fit together to form the basis for more advanced usage and customization.
+* **Custom Training Loop**: How to customize your training loops, fine-tuning your models to meet your specific requirements. 
+* **Import ONNX Model**: Learn how to seamlessly import models from ONNX, expanding your compatibility with other deep learning ecosystems.
+* **Advanced**: Exploring Burn's capabilities at their peak. This section caters to those who want to push the boundaries of what's possible with Burn.
 
 **Resources**
 ====

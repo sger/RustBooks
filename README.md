@@ -397,9 +397,9 @@ You'll learn:
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 
-### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns))
+### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns)
 
-<img src="(https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png)" />
+<img src="(https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png)" width="120px" />
 
 Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
 

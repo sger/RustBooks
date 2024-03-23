@@ -138,6 +138,14 @@ Refactoring to Rust teaches you to combine your favorite programming language wi
 
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
+### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns))
+
+<img src="(https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png)" />
+
+Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
+
+Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
+
 ### [Data Analysis with Rust Notebooks](https://datacrayon.com/shop/product/data-analysis-with-rust-notebooks/) 
 
 <img src="https://datacrayon.com/shop/wp-content/uploads/2020/02/cover_darn.jpg" width="120px"/>
@@ -190,6 +198,12 @@ You'll learn how to:
 Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
 
 Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
+
+### [Write Powerful Rust Macros](https://www.manning.com/books/write-powerful-rust-macros)
+
+<img src="https://images.manning.com/book/4/d33e139-a73e-4206-b457-6fa024449e33/McNamara-Rust-HI.png" width="120px" />
+
+Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. You’ll start your journey with declarative macros, then quickly move on to the powerful procedural macros to build your own domain-specific language. Learn how to create public fields, work with custom attributes, integrate your macros with other crates, write effective tests to ensure your macros are reliable and bug-free, and even share your macros with other developers.
 
 **Advanced Books**
 ---
@@ -382,6 +396,36 @@ You'll learn:
 3) Implement and practice various data structures and algorithms.
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
+
+### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns))
+
+<img src="(https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png)" />
+
+Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
+
+Throughout this unique book, you’ll find useful code samples that are easy to adapt and reuse for your own projects. Hone your Rust skills with functional programming techniques, and explore examples of common anti-patterns so you know mistakes to avoid. You’ll soon have an in-depth understanding of when and how to apply each design pattern, and even create your very own!
+
+### [The Burn Book](https://burn.dev/book/overview.html) *Free*
+
+This book will help you get started with the Burn deep learning framework.
+If you know Pytorch Burn will probably seem familiar to you.
+**The book assumes a basic understanding of deep learning concepts.**
+
+Burn places a significant emphasis on making the right compromises in the right areas to facilitate exceptional flexibility, high performance, and a seamless developer experience. Burn is designed to serve as a versatile framework suitable for a wide range of research and production uses. 
+
+**Target Audience**:
+
+* **Machine Learning Researchers**: Enhanced experiment construction and execution, with rapid idea iteration and swift testing.
+* **Machine Learning Engineers**: Develop robust, cost-effective models, ensuring seamless deployment and economic efficiency. 
+* **Low level Software Engineers**: Leverage hardware-specific features ensuring precise control over computation.
+
+**Core Learning Modules**:
+
+* **Basic Workflow**: From Training to Inference: The fundamentals, guiding you through the entire workflow, from training your models to deploying them for inference.
+* **Building Blocks**: Burn's core components, understanding how they fit together to form the basis for more advanced usage and customization.
+* **Custom Training Loop**: How to customize your training loops, fine-tuning your models to meet your specific requirements. 
+* **Import ONNX Model**: Learn how to seamlessly import models from ONNX, expanding your compatibility with other deep learning ecosystems.
+* **Advanced**: Exploring Burn's capabilities at their peak. This section caters to those who want to push the boundaries of what's possible with Burn.
 
 **Resources**
 ====

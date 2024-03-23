@@ -1,18 +1,14 @@
-name: AwesomeBot
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ main ]
   pull_request:
-    branches: [ main ]
+    branches: [main]
+    paths:
+      - 'readme.md'
 jobs:
-  test:
+  lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.5.3
-    - run: gem install awesome_bot
-    - run: awesome_bot README.md --allow-dupe --allow-redirect
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: awesome-lint
+        run: ./.github/workflows/lint.sh

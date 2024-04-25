@@ -193,7 +193,7 @@ Throughout this unique book, you’ll find useful code samples that are easy to 
 
 ### [Write Powerful Rust Macros](https://www.manning.com/books/write-powerful-rust-macros)
 
-<img src="https://images.manning.com/book/4/d33e139-a73e-4206-b457-6fa024449e33/McNamara-Rust-HI.png" width="120px" />
+<img src="https://images.manning.com/264/352/resize/book/2/54455bb-d8fc-4402-9496-d2a4ae74e720/Overmeire-MEAP-HI.png" width="120px" />
 
 Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. You’ll start your journey with declarative macros, then quickly move on to the powerful procedural macros to build your own domain-specific language. Learn how to create public fields, work with custom attributes, integrate your macros with other crates, write effective tests to ensure your macros are reliable and bug-free, and even share your macros with other developers.
 

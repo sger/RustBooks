@@ -193,7 +193,7 @@ Throughout this unique book, you’ll find useful code samples that are easy to 
 
 ### [Write Powerful Rust Macros](https://www.manning.com/books/write-powerful-rust-macros)
 
-<img src="https://images.manning.com/book/4/d33e139-a73e-4206-b457-6fa024449e33/McNamara-Rust-HI.png" width="120px" />
+<img src="https://images.manning.com/264/352/resize/book/2/54455bb-d8fc-4402-9496-d2a4ae74e720/Overmeire-MEAP-HI.png" width="120px" />
 
 Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. You’ll start your journey with declarative macros, then quickly move on to the powerful procedural macros to build your own domain-specific language. Learn how to create public fields, work with custom attributes, integrate your macros with other crates, write effective tests to ensure your macros are reliable and bug-free, and even share your macros with other developers.
 
@@ -410,6 +410,12 @@ Burn places a significant emphasis on making the right compromises in the right 
 * **Custom Training Loop**: How to customize your training loops, fine-tuning your models to meet your specific requirements. 
 * **Import ONNX Model**: Learn how to seamlessly import models from ONNX, expanding your compatibility with other deep learning ecosystems.
 * **Advanced**: Exploring Burn's capabilities at their peak. This section caters to those who want to push the boundaries of what's possible with Burn.
+
+###[Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) 
+
+<img src="https://images.manning.com/360/480/resize/book/4/fbf305a-db6a-4f41-bc53-5951c5ea8bb9/Matthews-HI.png" width="120px"/>
+
+Code Like a Pro in Rust will make you a more productive Rust programmer. This example-rich book builds on your existing know-how by introducing Rust-specific design patterns, coding shortcuts, and veteran skills like asynchronous programming and integrating Rust with other languages. You’ll also meet amazing Rust tools for testing, code analysis, and application lifecycle management. It’s all the good stuff in one place!
 
 **Resources**
 ====

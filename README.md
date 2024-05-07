@@ -411,7 +411,7 @@ Burn places a significant emphasis on making the right compromises in the right 
 * **Import ONNX Model**: Learn how to seamlessly import models from ONNX, expanding your compatibility with other deep learning ecosystems.
 * **Advanced**: Exploring Burn's capabilities at their peak. This section caters to those who want to push the boundaries of what's possible with Burn.
 
-###[Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) 
+### [Code Like a Pro in Rust](https://www.manning.com/books/code-like-a-pro-in-rust) 
 
 <img src="https://images.manning.com/360/480/resize/book/4/fbf305a-db6a-4f41-bc53-5951c5ea8bb9/Matthews-HI.png" width="120px"/>
 

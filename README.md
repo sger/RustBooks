@@ -417,6 +417,10 @@ Burn places a significant emphasis on making the right compromises in the right 
 
 Code Like a Pro in Rust will make you a more productive Rust programmer. This example-rich book builds on your existing know-how by introducing Rust-specific design patterns, coding shortcuts, and veteran skills like asynchronous programming and integrating Rust with other languages. You’ll also meet amazing Rust tools for testing, code analysis, and application lifecycle management. It’s all the good stuff in one place!
 
+### [API development with Rust](https://rust-api.dev/docs/front-matter/preface/) *Free* (this is a work in progress)
+
+You will learn the basics of REST APIs, followed by  the ecosystem and usual system architecture around a typical REST API. We will explain how to make your API secure, scalable and observable, so you can move it to production confidently. We will also show you how to implement automated testing, continuous integration and delivery. We will provide examples for cloud deployment scenarios too. The code samples are based on the Tokio-Hyper-Tower-Axum stack.
+
 **Resources**
 ====
 

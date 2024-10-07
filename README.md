@@ -432,6 +432,8 @@ You will learn the basics of REST APIs, followed by  the ecosystem and usual sys
 
 ### [Areweyet List of Lists](https://wiki.mozilla.org/Areweyet): List of "Are we ... yet?" websites hosted on Mozilla's Wiki
 
+### [The Little Book of Rust Books](https://github.com/lborb/book): Various online Rust books, mostly in mdbook format
+
 Contributing
 ====
 Your contributions are always welcome, just follow [the rules](https://github.com/sger/RustBooks/blob/main/CONTRIBUTING.md)!

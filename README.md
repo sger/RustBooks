@@ -427,6 +427,9 @@ This book contains techniques that can improve the performance-related character
 
 This book is aimed at intermediate and advanced Rust users. Beginner Rust users have more than enough to learn and these techniques are likely to be an unhelpful distraction to them.
 
+### [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html) *Free*
+
+The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who want to make changes to the Rust compiler, rustc. This resource is for those who want to understand how the Rust compiler works and learn how to make changes to it.
 
 **Resources**
 ====
@@ -438,6 +441,8 @@ This book is aimed at intermediate and advanced Rust users. Beginner Rust users 
 ### [Are We Web Yet?](https://www.arewewebyet.org/): List of resources for web development in Rust
 
 ### [Areweyet List of Lists](https://wiki.mozilla.org/Areweyet): List of "Are we ... yet?" websites hosted on Mozilla's Wiki
+
+### [The Little Book of Rust Books](https://github.com/lborb/book): Various online Rust books, mostly in mdbook format
 
 Contributing
 ====

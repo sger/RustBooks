@@ -197,6 +197,12 @@ Throughout this unique book, you’ll find useful code samples that are easy to 
 
 Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. You’ll start your journey with declarative macros, then quickly move on to the powerful procedural macros to build your own domain-specific language. Learn how to create public fields, work with custom attributes, integrate your macros with other crates, write effective tests to ensure your macros are reliable and bug-free, and even share your macros with other developers.
 
+### [The Secrets of Rust: Tools](https://bitfieldconsulting.com/books/rust-tools)
+
+<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/fb8c84e4-77a5-4fe6-a1aa-8709932e65a6/cover.png?format=120w" width="120px"/>
+
+The Secrets of Rust: Tools is aimed at those who have learned the basics of Rust, and would like to start writing useful programs with it. The book starts very simply, and works through developing a series of increasingly challenging projects, including a memo tool and a weather API client, guided by tests. Along the way, readers will learn some useful patterns and practices for Rust programs, and gain experience with important crates such as `clap`, `anyhow`, and `serde`.
+
 **Advanced Books**
 ---
 

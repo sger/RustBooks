@@ -427,6 +427,12 @@ Code Like a Pro in Rust will make you a more productive Rust programmer. This ex
 
 You will learn the basics of REST APIs, followed by  the ecosystem and usual system architecture around a typical REST API. We will explain how to make your API secure, scalable and observable, so you can move it to production confidently. We will also show you how to implement automated testing, continuous integration and delivery. We will provide examples for cloud deployment scenarios too. The code samples are based on the Tokio-Hyper-Tower-Axum stack.
 
+### [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html) *Free*
+
+This book contains techniques that can improve the performance-related characteristics of Rust programs, such as runtime speed, memory usage, and binary size. This book also focuses on techniques that are practical and proven: many are accompanied by links to pull requests or other resources that show how the technique was used on a real-world Rust program. It reflects the primary author’s background, being somewhat biased towards compiler development and away from other areas such as scientific computing.
+
+This book is aimed at intermediate and advanced Rust users. Beginner Rust users have more than enough to learn and these techniques are likely to be an unhelpful distraction to them.
+
 ### [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html) *Free*
 
 The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who want to make changes to the Rust compiler, rustc. This resource is for those who want to understand how the Rust compiler works and learn how to make changes to it.

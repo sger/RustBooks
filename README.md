@@ -32,6 +32,12 @@ Rust by Example (RBE) is a collection of runnable examples that illustrate vario
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
 
+### [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) *Free*
+
+This small book describes how to use Rust and WebAssembly together.
+
+This book is for anyone interested in compiling Rust to WebAssembly for fast, reliable code on the Web. You should know some Rust, and be familiar with JavaScript, HTML, and CSS. You don't need to be an expert in any of them.
+
 ### [Why Rust?](https://www.oreilly.com/library/view/why-rust/9781492048589/)
 
 <img src="https://learning.oreilly.com/library/cover/9781492048589/250w/" width="120px"/>
@@ -291,12 +297,6 @@ WebAssembly is more than just a revolutionary new technology. It’s reshaping h
 Learn how WebAssembly’s stack machine architecture works, install low-level wasm tools and discover the dark art of writing raw wast code. Build on that foundation and learn how to compile WebAssembly modules from Rust by implementing the logic for a checkers game. Create wasm modules in Rust to interoperate with JavaScript in many compelling ways. Apply your new skills to the world of non-web hosts, and create everything from an app running on a Raspberry Pi that controls a lighting system, to a fully-functioning online multiplayer game engine where developers upload their own arena-bound WebAssembly combat modules.
 
 Get started with WebAssembly today, and change the way you think about the web.
-
-### [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) *Free*
-
-This small book describes how to use Rust and WebAssembly together.
-
-This book is for anyone interested in compiling Rust to WebAssembly for fast, reliable code on the Web. You should know some Rust, and be familiar with JavaScript, HTML, and CSS. You don't need to be an expert in any of them.
 
 ### [Step Ahead with Rust: Systems Programming in Rust](https://www.armstrong-publications.com/product/step-ahead-with-rust-super-combo/)
 

@@ -44,15 +44,17 @@ While systems programming languages have greatly evolved since the introduction 
 
 Rust is a highly concurrent and high-performance language that focuses on safety and speed, memory management, and writing clean code. It also guarantees thread safety, and it aims to improve the performance of existing applications. It has been backed by Mozilla to solve the critical problem of concurrency.
 
-### [Beginning Rust - From Novice to Professional](https://www.oreilly.com/library/view/beginning-rust-from/9781484234686/) 
+### [Beginning Rust - Get Started with Rust 2021 Edition](https://www.oreilly.com/library/view/beginning-rust-get/9781484272084/) 2nd Edition
 
-<img src="https://learning.oreilly.com/library/cover/9781484234686/250w/" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781484272084/250w/" width="120px"/>
 
-Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.  
+Learn to program with Rust 2021 Edition, in an easy, step-by-step manner on Unix, the Linux shell, macOS, and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.   
 
 Beginning Rust starts with the basics of Rust, including how to name objects, control execution flow, and handle primitive types. You’ll see how to do arithmetic, allocate memory, use iterators, and handle input/output. Once you have mastered these core skills, you’ll work on handling errors and using the object-oriented features of Rust to build robust Rust applications in no time.
 
-Only basic knowledge of programming is required, preferably in C or C++. To understand this book, it's enough to know what integers and floating-point numbers are, and to distinguish identifiers from string literals.
+Only a basic knowledge of programming in C or C++ and familiarity with a command console are required. After reading this book, you’ll be ready to build simple Rust applications.
+
+Those who are new to Rust and who have at least some prior experience with programming in general: some C/C++ is recommended particularly.
 
 ### [Rust Cookbook](https://www.packtpub.com/product/rust-cookbook/9781785880254) 
 

@@ -203,6 +203,18 @@ Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. 
 
 The Secrets of Rust: Tools is aimed at those who have learned the basics of Rust, and would like to start writing useful programs with it. The book starts very simply, and works through developing a series of increasingly challenging projects, including a memo tool and a weather API client, guided by tests. Along the way, readers will learn some useful patterns and practices for Rust programs, and gain experience with important crates such as `clap`, `anyhow`, and `serde`.
 
+### [Fullstack Rust](https://www.newline.co/fullstack-rust)
+
+<img src="https://www.newline.co/_next/image?url=https%3A%2F%2Fdzxbosgk90qga.cloudfront.net%2Fx800%2Fn%2F20200128180136107_fullstack-node-Hardcover-Book-Cover-quarter.jpg&w=1920&q=75" width="120px"/>
+
+The Fullstack Rust book is the complete guide to building fast, production-ready Rust apps.
+
+The Rust language is a way to write incredibly fast - and safe - code. It's being used to build tools at Google, Facebook, Amazon, and many other companies where performance is critical.
+
+While there are some good resources on how to learn the Rust programming language by itself, what these other books don't teach is how to build applications with Rust.
+
+Fullstack Rust solves that. In this book we show you how to use Rust to build incredibly fast web-servers, build command-line tools, and compile apps to run in the browser with Web Assembly (WASM).
+
 **Advanced Books**
 ---
 

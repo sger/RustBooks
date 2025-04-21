@@ -292,6 +292,12 @@ Learn how WebAssembly’s stack machine architecture works, install low-level wa
 
 Get started with WebAssembly today, and change the way you think about the web.
 
+### [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) *Free*
+
+This small book describes how to use Rust and WebAssembly together.
+
+This book is for anyone interested in compiling Rust to WebAssembly for fast, reliable code on the Web. You should know some Rust, and be familiar with JavaScript, HTML, and CSS. You don't need to be an expert in any of them.
+
 ### [Step Ahead with Rust: Systems Programming in Rust](https://www.armstrong-publications.com/product/step-ahead-with-rust-super-combo/)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41ztdWA7yCL.jpg" width="120px"/>

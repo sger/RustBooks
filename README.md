@@ -32,7 +32,7 @@ Rust by Example (RBE) is a collection of runnable examples that illustrate vario
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
 
-### [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) *Free*
+### [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) *Free* (work in progress)
 
 <img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/fb8c84e4-77a5-4fe6-a1aa-8709932e65a6/cover.png?format=120w" width="120px"/>
 

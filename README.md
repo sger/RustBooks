@@ -205,6 +205,19 @@ Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. 
 
 The Secrets of Rust: Tools is aimed at those who have learned the basics of Rust, and would like to start writing useful programs with it. The book starts very simply, and works through developing a series of increasingly challenging projects, including a memo tool and a weather API client, guided by tests. Along the way, readers will learn some useful patterns and practices for Rust programs, and gain experience with important crates such as `clap`, `anyhow`, and `serde`.
 
+### [Asynchronous Programming in Rust](https://www.packtpub.com/en-mt/product/asynchronous-programming-in-rust-9781805128137)
+
+<img src="https://content.packt.com/_/image/original/B20892/cover_image.jpg" width="120px"/>
+
+Asynchronous Programming in Rust: Learn asynchronous programming by building working examples of futures, green threads, and runtimes
+
+Step into the world of asynchronous programming with confidence by conquering the challenges of unclear concepts with this hands-on guide. Using functional examples, this book simplifies the trickiest concepts, exploring goroutines, fibers, futures, and callbacks to help you navigate the vast Rust async ecosystem with ease. You’ll start by building a solid foundation in asynchronous programming and explore diverse strategies for modeling program flow. The book then guides you through concepts like epoll, coroutines, green threads, and callbacks using practical examples. The final section focuses on Rust, examining futures, generators, and the reactor-executor pattern. You’ll apply your knowledge to create your own runtime, solidifying expertise in this dynamic domain. Throughout the book, you’ll not only gain proficiency in Rust's async features but also see how Rust models asynchronous program flow. By the end of the book, you'll possess the knowledge and practical skills needed to actively contribute to the Rust async ecosystem.
+
+Key benefits
+- Master asynchronous Rust through examples focusing on key concepts
+- Build a solid understanding of concepts such as coroutines, fibers, futures, and callbacks
+- Explore Rust's futures, craft your own runtime, and excel in handling stacks, ABIs, syscalls, and inline assembly
+
 **Advanced Books**
 ---
 

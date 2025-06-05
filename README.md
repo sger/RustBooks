@@ -28,6 +28,12 @@ I will assume some familiarity with programming, and hence not explain the basic
 
 Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries. To get even more out of these examples, don't forget to [install Rust locally](https://www.rust-lang.org/tools/install) and check out the [official docs](https://doc.rust-lang.org/std/). Additionally for the curious, you can also [check out the source code for this site](https://github.com/rust-lang/rust-by-example).
 
+### [Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/) *Free*
+
+The course explores a wide array of topics in the Rust programming language, gradually introducing them through the development of a grep-like program.
+
+<img src="https://raw.githubusercontent.com/freddiehaddad/fast-track-to-rust/refs/heads/master/src/logo.svg" width="120px"/>
+
 ### [Easy Rust](https://dhghomon.github.io/easy_rust/) *Free*
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.

@@ -44,15 +44,17 @@ While systems programming languages have greatly evolved since the introduction 
 
 Rust is a highly concurrent and high-performance language that focuses on safety and speed, memory management, and writing clean code. It also guarantees thread safety, and it aims to improve the performance of existing applications. It has been backed by Mozilla to solve the critical problem of concurrency.
 
-### [Beginning Rust - From Novice to Professional](https://www.oreilly.com/library/view/beginning-rust-from/9781484234686/) 
+### [Beginning Rust - Get Started with Rust 2021 Edition](https://www.oreilly.com/library/view/beginning-rust-get/9781484272084/) 2nd Edition
 
-<img src="https://learning.oreilly.com/library/cover/9781484234686/250w/" width="120px"/>
+<img src="https://learning.oreilly.com/library/cover/9781484272084/250w/" width="120px"/>
 
-Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.  
+Learn to program with Rust 2021 Edition, in an easy, step-by-step manner on Unix, the Linux shell, macOS, and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.   
 
 Beginning Rust starts with the basics of Rust, including how to name objects, control execution flow, and handle primitive types. You’ll see how to do arithmetic, allocate memory, use iterators, and handle input/output. Once you have mastered these core skills, you’ll work on handling errors and using the object-oriented features of Rust to build robust Rust applications in no time.
 
-Only basic knowledge of programming is required, preferably in C or C++. To understand this book, it's enough to know what integers and floating-point numbers are, and to distinguish identifiers from string literals.
+Only a basic knowledge of programming in C or C++ and familiarity with a command console are required. After reading this book, you’ll be ready to build simple Rust applications.
+
+Those who are new to Rust and who have at least some prior experience with programming in general: some C/C++ is recommended particularly.
 
 ### [Rust Cookbook](https://www.packtpub.com/product/rust-cookbook/9781785880254) 
 
@@ -214,6 +216,19 @@ The Rust language is a way to write incredibly fast - and safe - code. It's bein
 While there are some good resources on how to learn the Rust programming language by itself, what these other books don't teach is how to build applications with Rust.
 
 Fullstack Rust solves that. In this book we show you how to use Rust to build incredibly fast web-servers, build command-line tools, and compile apps to run in the browser with Web Assembly (WASM).
+
+### [Asynchronous Programming in Rust](https://www.packtpub.com/en-mt/product/asynchronous-programming-in-rust-9781805128137)
+
+<img src="https://content.packt.com/_/image/original/B20892/cover_image.jpg" width="120px"/>
+
+Asynchronous Programming in Rust: Learn asynchronous programming by building working examples of futures, green threads, and runtimes
+
+Step into the world of asynchronous programming with confidence by conquering the challenges of unclear concepts with this hands-on guide. Using functional examples, this book simplifies the trickiest concepts, exploring goroutines, fibers, futures, and callbacks to help you navigate the vast Rust async ecosystem with ease. You’ll start by building a solid foundation in asynchronous programming and explore diverse strategies for modeling program flow. The book then guides you through concepts like epoll, coroutines, green threads, and callbacks using practical examples. The final section focuses on Rust, examining futures, generators, and the reactor-executor pattern. You’ll apply your knowledge to create your own runtime, solidifying expertise in this dynamic domain. Throughout the book, you’ll not only gain proficiency in Rust's async features but also see how Rust models asynchronous program flow. By the end of the book, you'll possess the knowledge and practical skills needed to actively contribute to the Rust async ecosystem.
+
+Key benefits
+- Master asynchronous Rust through examples focusing on key concepts
+- Build a solid understanding of concepts such as coroutines, fibers, futures, and callbacks
+- Explore Rust's futures, craft your own runtime, and excel in handling stacks, ABIs, syscalls, and inline assembly
 
 **Advanced Books**
 ---

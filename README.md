@@ -32,6 +32,14 @@ Rust by Example (RBE) is a collection of runnable examples that illustrate vario
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
 
+### [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) *Free* (work in progress)
+
+<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/fb8c84e4-77a5-4fe6-a1aa-8709932e65a6/cover.png?format=120w" width="120px"/>
+
+This book is a guide to asynchronous programming in Rust. It is designed to help you take your first steps and to discover more about advanced topics. We don't assume any experience with asynchronous programming (in Rust or another language), but we do assume you're familiar with Rust already. If you want to learn about Rust, you could start with The Rust Programming Language.
+
+This book has two main parts: part one is a beginners guide, it is designed to be read in-order and to take you from total beginner to intermediate level. Part two is a collection of stand-alone chapters on more advanced topics. It should be useful once you've worked through part one or if you already have some experience with async Rust.
+
 ### [Why Rust?](https://www.oreilly.com/library/view/why-rust/9781492048589/)
 
 <img src="https://learning.oreilly.com/library/cover/9781492048589/250w/" width="120px"/>

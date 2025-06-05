@@ -32,6 +32,12 @@ Rust by Example (RBE) is a collection of runnable examples that illustrate vario
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
 
+### [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) *Free*
+
+This small book describes how to use Rust and WebAssembly together.
+
+This book is for anyone interested in compiling Rust to WebAssembly for fast, reliable code on the Web. You should know some Rust, and be familiar with JavaScript, HTML, and CSS. You don't need to be an expert in any of them.
+
 ### [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) *Free* (work in progress)
 
 <img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/fb8c84e4-77a5-4fe6-a1aa-8709932e65a6/cover.png?format=120w" width="120px"/>

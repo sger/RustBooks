@@ -146,13 +146,16 @@ Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficienc
 
 A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice. It includes a section on getting your environment set up, and full code listings for all examples.
 
-### [Rust Web Programming ](https://www.packtpub.com/product/rust-web-programming/)
+### [Rust Web Programming ](https://www.packtpub.com/product/rust-web-programming/) 2nd Edition
 
-<img src="https://static.packt-cdn.com/products/9781800560819/cover/smaller" width="120px"/>
+<img src="https://content.packt.com/_/image/original/B18722/cover_image.jpg" width="120px"/>
 
-This book will take you through each stage of the web development process, showing you how to combine Rust and modern web development principles to build supercharged web apps.
+Are safety and high performance a big concern for you while developing web applications? With this practical Rust book, you’ll discover how you can implement Rust on the web to achieve the desired performance and security as you learn techniques and tooling to build fully operational web apps. In this second edition, you’ll get hands-on with implementing emerging Rust web frameworks, including Actix, Rocket, and Hyper. It also features HTTPS configuration on AWS when deploying a web application and introduces you to Terraform for automating the building of web infrastructure on AWS. What’s more, this edition also covers advanced async topics. Built on the Tokio async runtime, this explores TCP and framing, implementing async systems with the actor framework, and queuing tasks on Redis to be consumed by a number of worker nodes. Finally, you’ll go over best practices for packaging Rust servers in distroless Rust Docker images with database drivers, so your servers are a total size of 50Mb each. By the end of this book, you’ll have confidence in your skills to build robust, functional, and scalable web applications from scratch.
 
-You'll start with an introduction to Rust and understand how to avoid common pitfalls when migrating from traditional dynamic programming languages. The book will show you how to structure Rust code for a project that spans multiple pages and modules. Next, you'll explore the Actix Web framework and get a basic web server up and running. As you advance, you'll learn how to process JSON requests and display data from the web app via HTML, CSS, and JavaScript. You'll also be able to persist data and create RESTful services in Rust. Later, you'll build an automated deployment process for the app on an AWS EC2 instance and Docker Hub. Finally, you'll play around with some popular web frameworks in Rust and compare them.
+Key benefits
+- Work with cutting-edge web techniques such as distroless Rust servers, Terraform, and AWS deployment
+- Get acquainted with async concepts such as actors and queuing tasks using lower-level frameworks like Tokio
+- Build a full web application in Rust with a database, authentication, and frontend
 
 ### [Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
 

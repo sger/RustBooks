@@ -28,6 +28,19 @@ I will assume some familiarity with programming, and hence not explain the basic
 
 Rust by Example (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries. To get even more out of these examples, don't forget to [install Rust locally](https://www.rust-lang.org/tools/install) and check out the [official docs](https://doc.rust-lang.org/std/). Additionally for the curious, you can also [check out the source code for this site](https://github.com/rust-lang/rust-by-example).
 
+### [Rust by Practice](https://practice.course.rs/) *Free*
+
+This book was designed for easily diving into and getting skilled with Rust, and it's very easy to use: All you need to do is to make each exercise compile without ERRORS and Panics!
+
+### [100 Exercises to Learn Rust](https://rust-exercises.com/100-exercises/) *Free*
+
+This course will teach you Rust's core concepts, one exercise at a time.
+You'll learn about Rust's syntax, its type system, its standard library, and its ecosystem. We don't assume any prior knowledge of Rust, but we assume you know at least another programming language. We also don't assume any prior knowledge of systems programming or memory management. Those topics will be covered in the course.
+
+### [Comprehensive Rust](https://google.github.io/comprehensive-rust/) *Free*
+
+This is a free Rust course developed by the Android team at Google. The course covers the full spectrum of Rust, from basic syntax to advanced topics like generics and error handling. The course is also available [as a PDF](https://google.github.io/comprehensive-rust/comprehensive-rust.pdf).
+
 ### [Fast Track to Rust](https://freddiehaddad.github.io/fast-track-to-rust/) *Free*
 
 The course explores a wide array of topics in the Rust programming language, gradually introducing them through the development of a grep-like program.
@@ -38,19 +51,17 @@ The course explores a wide array of topics in the Rust programming language, gra
 
 Rust is a new language that already has good textbooks. But sometimes its textbooks are difficult because they are for native English speakers. Many companies and people now learn Rust, and they could learn faster with a book that has easy English. This textbook is for these companies and people to learn Rust with simple English.
 
-### [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) *Free*
+### [Rust and WebAssembly](https://rustwasm.github.io/book/) *Free*
 
-This small book describes how to use Rust and WebAssembly together.
+This small book describes how to use [Rust](https://www.rust-lang.org/) and [WebAssembly](https://webassembly.org/) together.
 
 This book is for anyone interested in compiling Rust to WebAssembly for fast, reliable code on the Web. You should know some Rust, and be familiar with JavaScript, HTML, and CSS. You don't need to be an expert in any of them.
 
-### [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) *Free* (work in progress)
+### [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) *Free*
 
-<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/fb8c84e4-77a5-4fe6-a1aa-8709932e65a6/cover.png?format=120w" width="120px"/>
+This book is a guide to asynchronous programming in Rust. It is designed to help you take your first steps and to discover more about advanced topics. We don't assume any experience with asynchronous programming (in Rust or another language), but we do assume you're familiar with Rust already. If you want to learn about Rust, you could start with [The Rust Programming Language](https://doc.rust-lang.org/stable/book/).
 
-This book is a guide to asynchronous programming in Rust. It is designed to help you take your first steps and to discover more about advanced topics. We don't assume any experience with asynchronous programming (in Rust or another language), but we do assume you're familiar with Rust already. If you want to learn about Rust, you could start with The Rust Programming Language.
-
-This book has two main parts: part one is a beginners guide, it is designed to be read in-order and to take you from total beginner to intermediate level. Part two is a collection of stand-alone chapters on more advanced topics. It should be useful once you've worked through part one or if you already have some experience with async Rust.
+This book has two main parts: [part one](https://rust-lang.github.io/async-book/part-guide/intro.html) is a beginners guide, it is designed to be read in-order and to take you from total beginner to intermediate level. Part two is a collection of stand-alone chapters on more advanced topics. It should be useful once you've worked through part one or if you already have some experience with async Rust.
 
 ### [Why Rust?](https://www.oreilly.com/library/view/why-rust/9781492048589/)
 
@@ -76,11 +87,11 @@ Only a basic knowledge of programming in C or C++ and familiarity with a command
 
 Those who are new to Rust and who have at least some prior experience with programming in general: some C/C++ is recommended particularly.
 
-### [Rust Cookbook](https://www.packtpub.com/product/rust-cookbook/9781785880254) 
+### [Rust Programming Cookbook](https://www.packtpub.com/en-us/product/rust-programming-cookbook-9781789531749) 
 
-<img src="https://static.packt-cdn.com/products/9781785880254/cover/smaller" width="120px"/>
+<img src="https://content.packt.com/_/image/original/B11749/cover_image.jpg" width="120px"/>
 
-This book will help you understand the core concepts of the Rust language, enabling you to develop efficient and high-performance applications by incorporating features such as zero-cost abstraction and better memory management. Delve into advanced-level concepts such as error handling, macros, crates, and parallelism in Rust. Toward the end of the book, learn how to create HTTP servers and web services, building a strong foundational knowledge in server-side programming and enabling to deliver solutions to build high-performance and safer production-level web applications and services using Rust.
+Rust 2018, Rust's first major milestone since version 1.0, brings more advancement in the Rust language. The Rust Programming Cookbook is a practical guide to help you overcome challenges when writing Rust code. This Rust book covers recipes for configuring Rust for different environments and architectural designs, and provides solutions to practical problems. It will also take you through Rust's core concepts, enabling you to create efficient, high-performance applications that use features such as zero-cost abstractions and improved memory management. As you progress, you'll delve into more advanced topics, including channels and actors, for building scalable, production-grade applications, and even get to grips with error handling, macros, and modularization to write maintainable code. You will then learn how to overcome common roadblocks when using Rust for systems programming, IoT, web development, and network programming. Finally, you'll discover what Rust 2018 has to offer for embedded programmers. By the end of the book, you'll have learned how to build fast and safe applications and services using Rust.
 
 ### [Rust Standard Library Cookbook](https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926)
 
@@ -150,13 +161,13 @@ You can hand this book over to your newly hired developer and onboard them with 
 
 ### [Refactoring to Rust](https://www.manning.com/books/refactoring-to-rust)
 
-<img src="https://images.manning.com/192/256/resize/book/f/6b2c7cf-d21a-4c6f-b243-8cc9b635a6c6/Mara-RR-MEAP-HI.png" width="120px" />
+<img src="https://images.manning.com/264/352/resize/book/7/0cf1bb6-dfad-45de-8ea4-eb1e4059ca2d/Mara-RR-HI.png" width="120px" />
 
 Refactoring to Rust teaches you to combine your favorite programming language with high-performance Rust code. Author Lily Mara introduces Rust in her easy-to-read style, clearly explaining the language's unique syntax and concepts. You’ll augment programs with Rust hands-on with approachable examples like solving FizzBuzz with Rust’s pattern matching and gaining enormous runtime speedups to Python code. When you’re done, you’ll have mastered techniques for building Rust plugins you can apply to all kinds of existing software, from games to data tools.
 
 ### [Learn Rust in a Month of Lunches](https://www.manning.com/books/learn-rust-in-a-month-of-lunches)
 
-<img src="https://images.manning.com/book/5/c65bcc6-6fa6-47e3-a140-d33f52c138fd/MacLeod-Rust-MoL-MEAP-hires.png" width="120px" />
+<img src="https://images.manning.com/360/480/resize/book/7/9ab685e-f4b7-4b3b-98a0-0e089297d520/MacLeod-HI.png" width="120px" />
 
 Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficiency. Each lesson introduces a new feature of the language, from working with types to making sense of the Rust standard library. The book's examples are easy and fun to follow—such as explaining traits using role-playing game characters. Best of all, almost all code samples run in the browser-based Rust Playground. No need to install Rust to get started on a lesson!
 
@@ -185,6 +196,14 @@ Learn how to recreate popular command line tools with Rust using TDD. The first 
 
 The book assumes no prior knowledge of Rust, but does require previous programming experience.
 
+### [Command Line Applications in Rust](https://rust-cli.github.io/book/) *Free*
+
+Rust is a statically compiled, fast language with great tooling and a rapidly growing ecosystem. That makes it a great fit for writing command line applications: They should be small, portable, and quick to run. Command line applications are also a great way to get started with learning Rust; or to introduce Rust to your team!
+
+Writing a program with a simple command line interface (CLI) is a great exercise for a beginner who is new to the language and wants to get a feel for it. There are many aspects to this topic, though, that often only reveal themselves later on.
+
+This book is structured like this: We start with a quick tutorial, after which you’ll end up with a working CLI tool. You’ll be exposed to a few of the core concepts of Rust as well as the main aspects of CLI applications. What follows are chapters that go into more detail on some of these aspects.
+
 ### [Hands-on Rust](https://hands-on-rust.com/)
 
 <img src="https://hands-on-rust.com/hwrust-250.jpg" width="120px"/>
@@ -208,9 +227,9 @@ You'll learn how to:
 - Observe the state of your application using structured logs
 - Set up an extensive continuous integration and continuous deployment pipeline for your Rust projects
 
-### [Rust Design Patterns](https://www.manning.com/books/rust-design-patterns)
+### [Idiomatic Rust](https://www.manning.com/books/idiomatic-rust)
 
-<img src="https://images.manning.com/book/e/46c5715-af03-4046-8d75-e75383e0bea3/Matthews2-MEAP-HI.png" width="120px" />
+<img src="https://images.manning.com/264/352/resize/book/f/9806549-3756-47ed-89fc-910a6a33f161/Matthews2-HI.png" width="120px" />
 
 Rust Design Patterns presents dozens of established programming and architecture solutions that take advantage of Rust’s unique language design. You’ll start with the basics of generics and traits, using them as a foundation to rapidly progress to metaprogramming, building your own libraries, and even advanced patterns like fluent interfaces and making immutable structures.
 
@@ -218,7 +237,7 @@ Throughout this unique book, you’ll find useful code samples that are easy to 
 
 ### [Write Powerful Rust Macros](https://www.manning.com/books/write-powerful-rust-macros)
 
-<img src="https://images.manning.com/264/352/resize/book/2/54455bb-d8fc-4402-9496-d2a4ae74e720/Overmeire-MEAP-HI.png" width="120px" />
+<img src="https://images.manning.com/264/352/resize/book/e/b818353-2dd1-457f-88b5-f834767f7302/Overmeire-HI.png" width="120px" />
 
 Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. You’ll start your journey with declarative macros, then quickly move on to the powerful procedural macros to build your own domain-specific language. Learn how to create public fields, work with custom attributes, integrate your macros with other crates, write effective tests to ensure your macros are reliable and bug-free, and even share your macros with other developers.
 
@@ -262,17 +281,35 @@ This book digs into all the awful details that are necessary to understand to wr
 
 Should you wish a long and happy career of writing Rust programs, you should turn back now and forget you ever saw this book. It is not necessary. However, if you intend to write unsafe code -- or just want to dig into the guts of the language -- this book contains invaluable information.
 
-### [Rust Patterns](https://rust-unofficial.github.io/patterns/) *Free*
+### [The Unstable Book](https://doc.rust-lang.org/stable/unstable-book/) *Free*
 
-There are many problems that share the same form. Due to the fact that Rust is not object-oriented, design patterns vary with respect to other object-oriented programming languages. While the details are different, since they have the same form they can be solved using the same fundamental methods.
+Welcome to the Unstable Book! This book consists of a number of chapters, each one organized by a "feature flag."
 
-This book collects social norms of the community and demonstrates methods to solve common problems and reveals common pitfalls you will stuble upon when writing software in Rust.
+Because this documentation relates to unstable features, we make no guarantees that what is contained here is accurate or up to date. It's developed on a best-effort basis. Each page will have a link to its tracking issue with the latest developments; you might want to check those as well.
+
+### [Rust Design Patterns](https://rust-unofficial.github.io/patterns/) *Free*
+
+In software development, we often come across problems that share similarities regardless of the environment they appear in. Although the implementation details are crucial to solve the task at hand, we may abstract from these particularities to find the common practices that are generically applicable.
+
+Design patterns are a collection of reusable and tested solutions to recurring problems in engineering. They make our software more modular, maintainable, and extensible. Moreover, these patterns provide a common language for developers, making them an excellent tool for effective communication when problem-solving in teams.
+
+Rust is not object-oriented, and the combination of all its characteristics, such as functional elements, a strong type system, and the borrow checker, makes it unique. Because of this, Rust design patterns vary with respect to other traditional object-oriented programming languages. That’s why we decided to write this book. We hope you enjoy reading it!
 
 ### [Effective Rust](https://www.lurklurk.org/effective-rust/) *Free*
 
 Scott Meyers' original Effective C++ book was phenomenally successful because it introduced a new style of programming book, focused on a collection of guidelines that had been learned from real world experience of creating software in C++. Significantly, those guidelines were explained in the context of the reasons why they were necessary – allowing the reader to decide for themselves whether their particular scenario warranted breaking the rules.
 
 This book is aimed at a slightly different level than other Effective <Language> books; there are more Items that cover the concepts that are new with Rust, even though the official documentation already includes good introductions of these topics. These Items have titles like "Understand…" and "Familiarize yourself with…".
+
+### [High Assurance Rust](https://highassurance.rs/) *Free*
+
+This book is an introduction to building performant software we can justifiably trust. That means having sufficient data to support confidence in our code's functionality and security. Trustworthiness is a hallmark of high assurance software.
+
+With assurance as our driving concept, we'll take a hands-on, project-based approach to two fundamental but often inaccessible topics in software development: systems programming and low-level software security.
+
+You'll learn Rust - a modern, multi-paradigm language that emphasizes speed and correctness. Most programming books teach a new language by presenting a dozen small, unrealistic programs. Not this one.
+
+We'll design, write, and validate a fully-featured alternative to the ordered map and set implementations in Rust's standard library. You'll gain a deep understanding of the Rust language by re-implementing one of its major dynamic collections, one idiomatic API at a time.
 
 ### [Programming Rust 2nd Edition](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
 
@@ -334,7 +371,7 @@ The book begins with a gentle introduction to help you identify bottlenecks when
 
 ### [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
 
-<img src="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/khrust_hu6d5b8b63a4954cb696e89b39f929331b_994142_500x0_resize_q75_box.jpg" width="120px"/>
+<img src="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/khrust_hu_36f6c2a3031186cc.jpg" width="120px"/>
 
 WebAssembly is more than just a revolutionary new technology. It’s reshaping how we build applications for the web and beyond. Where technologies like ActiveX and Flash have failed, you can now write code in whatever language you prefer and compile to WebAssembly for fast, type-safe code that runs in the browser, on mobile devices, embedded devices, and more. Combining WebAssembly’s portable, high-performance modules with Rust’s safety and power is a perfect development combination.
 
@@ -363,6 +400,19 @@ Finally, you will be taken through examples of how to test and debug microservic
 ### [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) *Free* (this is a work in progress)
 
 This book is an attempt to distil the Rust community's collective knowledge of Rust macros. The book will introduce Rust's Macro-By-Example system: *macro_rules!*. Rather than trying to cover it based on practical examples, it will instead attempt to give you a complete and thorough explanation of how the system works. As such, this is intended for people who just want the system as a whole explained, rather than be guided through it.
+
+### [Rust Telemetry Workshop](https://rust-exercises.com/telemetry/) *Free*
+
+Welcome to our Rust telemetry course! You'll learn how to build observable applications in Rust.
+
+I'll take you on a journey through the Rust ecosystem, exploring the available telemetry solutions, learning how to combine them together to build a coherent and comprehensive toolkit.
+
+### [Advanced Rust Testing](https://rust-exercises.com/advanced-testing/) *Free*
+
+Welcome to "Advanced Rust testing"!
+No application is an island: you need to interact with third-party APIs, databases and who knows what else. Testing those interactions is tricky, to say the least! This course will focus on expanding your Rust testing toolkit, going beyond the basic techniques you're already familiar with. At the end of the course you'll have a strategy to test most of the scenarios that are relevant for a complex Rust application.
+
+The course assumes you have a good understanding of Rust's basic concepts and want to move beyond the built-in testing toolkit.
 
 ### [Hands-On Data Structures and Algorithms with Rust](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
 
@@ -412,7 +462,7 @@ Which programming language allows to craft shellcodes, build servers, create phi
 
 ### [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 
-<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/RustforRustaceans_cover.png" width="120px"/>
+<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/Rust%20for%20Rustaceans.jpg?itok=207FxzfF" width="120px"/>
 
 For developers who’ve mastered the basics, this book is the next step on your way to professional-level programming in Rust. It covers everything you need to build and maintain larger codebases, write powerful and flexible applications and libraries, and confidently expand the scope and complexity of your projects.
 
@@ -477,6 +527,10 @@ Code Like a Pro in Rust will make you a more productive Rust programmer. This ex
 
 You will learn the basics of REST APIs, followed by  the ecosystem and usual system architecture around a typical REST API. We will explain how to make your API secure, scalable and observable, so you can move it to production confidently. We will also show you how to implement automated testing, continuous integration and delivery. We will provide examples for cloud deployment scenarios too. The code samples are based on the Tokio-Hyper-Tower-Axum stack.
 
+### [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) *Free*
+
+This is a set of recommendations on how to design and present APIs for the Rust programming language. They are authored largely by the Rust library team, based on experiences building the Rust standard library and other crates in the Rust ecosystem.
+
 
 ### [Rust Under the Hood](https://www.amazon.com/dp/B0D7FQB3DH) 
 
@@ -494,6 +548,73 @@ This book is aimed at intermediate and advanced Rust users. Beginner Rust users 
 ### [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html) *Free*
 
 The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who want to make changes to the Rust compiler, rustc. This resource is for those who want to understand how the Rust compiler works and learn how to make changes to it.
+
+### [Writing Interpreters in Rust: A Guide](https://rust-hosted-langs.github.io/book/) *Free*
+
+In this book we will walk through the basics of interpreted language implementation in Rust with a focus on the challenges that are specific to using Rust.
+
+The goal of this book is not to cover a full featured language but rather to provide a solid foundation on which you can build further features. Along the way we'll implement as much as possible in terms of our own memory management abstractions rather than using Rust std collections.
+
+### [Build a Lua Interpreter in Rust](https://wubingzheng.github.io/build-lua-in-rust/en/) *Free*
+
+This series of articles introduces the implementation of a Lua interpreter from scratch in the Rust language.
+
+The goal of this book is not to cover a full featured language but rather to provide a solid foundation on which you can build further features. Along the way we'll implement as much as possible in terms of our own memory management abstractions rather than using Rust std collections.
+
+### [Writing an OS in Rust](https://os.phil-opp.com/) *Free*
+
+This blog series creates a small operating system in the [Rust programming language](https://www.rust-lang.org/). Each post is a small tutorial and includes all needed code, so you can follow along if you like. The source code is also available in the corresponding [Github repository](https://github.com/phil-opp/blog_os).
+
+### [The Redox Operating System](https://doc.redox-os.org/book/) *Free*
+
+This is the Redox OS book, which will go through (almost) everything about Redox: design, philosophy, how it works, how you can contribute, how to deploy Redox, and much more.
+
+### [The Embedded Rust Book](https://docs.rust-embedded.org/book/) *Free*
+
+Welcome to The Embedded Rust Book: An introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
+
+Embedded Rust is for everyone who wants to do embedded programming while taking advantage of the higher-level concepts and safety guarantees the Rust language provides.
+
+The goals of this book are:
+
+* Get developers up to speed with embedded Rust development. i.e. How to set up a development environment.
+* Share current best practices about using Rust for embedded development. i.e. How to best use Rust language features to write more correct embedded software.
+* Serve as a cookbook in some cases. e.g. How do I mix C and Rust in a single project?
+
+### [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/) *Free*
+
+The embedonomicon walks you through the process of creating a #![no_std] application from scratch and through the iterative process of building architecture-specific functionality for Cortex-M microcontrollers.
+
+By reading this book you will learn
+
+* How to build a `#![no_std]` application. This is much more complex than building a `#![no_std]` library because the target system may not be running an OS (or you could be aiming to build an OS!) and the program could be the only process running in the target (or the first one). In that case, the program may need to be customized for the target system.
+* Tricks to finely control the memory layout of a Rust program. You'll learn about linkers, linker scripts and about the Rust features that let you control a bit of the ABI of Rust programs.
+* A trick to implement default functionality that can be statically overridden (no runtime cost).
+### [Rust Embedded MB2 Discovery Book](https://docs.rust-embedded.org/discovery-mb2/) *Free*
+
+This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
+
+The following topics will be covered (eventually, I hope):
+
+* How to write, build, flash and debug an "embedded" (Rust) program.
+* Functionality ("peripherals") commonly found in microcontrollers: Digital input and output, Pulse Width Modulation (PWM), Analog to Digital Converters (ADC), common communication protocols like Serial, I2C and SPI, etc.
+* Multitasking concepts: cooperative vs preemptive multitasking, interrupts, schedulers, etc.
+
+* Control systems concepts: sensors, calibration, digital filters, actuators, open loop control, closed loop control, etc.
+
+### [The rustc Book](https://wubingzheng.github.io/build-lua-in-rust/en/) *Free*
+
+Welcome to "The rustc book"! rustc is the compiler for the Rust programming language, provided by the project itself. Compilers take your source code and produce binary code, either as a library or executable.
+
+Most Rust programmers don't invoke rustc directly, but instead do it through [Cargo](https://doc.rust-lang.org/stable/cargo/index.html). It's all in service of rustc though! If you want to see how Cargo calls rustc, you can
+
+`$ cargo build --verbose`
+
+And it will print out each rustc invocation. This book can help you understand what each of these options does. Additionally, while most Rustaceans use Cargo, not all do: sometimes they integrate rustc into other build systems. This book should provide a guide to all of the options you'd need to do so.
+
+### [The Cargo Book](https://doc.rust-lang.org/stable/cargo/) *Free*
+
+Cargo is the [Rust](https://www.rust-lang.org/) [package manager](https://doc.rust-lang.org/stable/cargo/appendix/glossary.html#package-manager). Cargo downloads your Rust [package](https://doc.rust-lang.org/stable/cargo/appendix/glossary.html#package)’s dependencies, compiles your packages, makes distributable packages, and uploads them to [crates.io](https://crates.io/), the Rust community’s [package registry](https://doc.rust-lang.org/stable/cargo/appendix/glossary.html#package-registry).
 
 **Resources**
 ====

@@ -342,7 +342,7 @@ The book begins with a gentle introduction to help you identify bottlenecks when
 
 ### [Programming WebAssembly with Rust](https://pragprog.com/titles/khrust/programming-webassembly-with-rust/)
 
-<img src="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/khrust_hu6d5b8b63a4954cb696e89b39f929331b_994142_500x0_resize_q75_box.jpg" width="120px"/>
+<img src="https://pragprog.com/titles/khrust/programming-webassembly-with-rust/khrust_hu_541c03f45e39ece1.jpg" width="120px"/>
 
 WebAssembly is more than just a revolutionary new technology. It’s reshaping how we build applications for the web and beyond. Where technologies like ActiveX and Flash have failed, you can now write code in whatever language you prefer and compile to WebAssembly for fast, type-safe code that runs in the browser, on mobile devices, embedded devices, and more. Combining WebAssembly’s portable, high-performance modules with Rust’s safety and power is a perfect development combination.
 
@@ -418,9 +418,9 @@ What are the motivations of the attackers? How can they break seemingly so easil
 
 Which programming language allows to craft shellcodes, build servers, create phishing pages? Before Rust, none! Rust is the long-awaited one-size-fits-all programming language meeting all those requirements thanks to its unparalleled guarantees and feature set.
 
-### [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+### [Rust for Rustaceans](https://rust-for-rustaceans.com/)
 
-<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/RustforRustaceans_cover.png" width="120px"/>
+<img src="https://rust-for-rustaceans.com/RustforRustaceans_cover.png" width="120px"/>
 
 For developers who’ve mastered the basics, this book is the next step on your way to professional-level programming in Rust. It covers everything you need to build and maintain larger codebases, write powerful and flexible applications and libraries, and confidently expand the scope and complexity of your projects.
 
@@ -428,12 +428,12 @@ Author Jon Gjengset takes you deep into the Rust programming language, dissectin
 
 You'll Learn:
 
-    1)How to design reliable, idiomatic, and ergonomic Rust programs based on best principles
-    2)Effective use of declarative and procedural macros, and the difference between them
-    3)How asynchrony works in Rust
-    4)What it means for code to be unsafe, and best practices for writing and interacting with unsafe functions and traits
-    5)How to organize and configure more complex Rust projects so that they integrate nicely with the rest of the ecosystem
-    6)How to write Rust code that can interoperate with non-Rust libraries and systems, or run in constrained and embedded environments 
+- How to design reliable, idiomatic, and ergonomic Rust programs based on best principles
+- Effective use of declarative and procedural macros, and the difference between them
+- How asynchrony works in Rust
+- What it means for code to be unsafe, and best practices for writing and interacting with unsafe functions and traits
+- How to organize and configure more complex Rust projects so that they integrate nicely with the rest of the ecosystem
+- How to write Rust code that can interoperate with non-Rust libraries and systems, or run in constrained and embedded environments 
 
 Brimming with practical, pragmatic insights that you can immediately apply, Rust for Rustaceans helps you do more with Rust, while also teaching you its underlying mechanisms.
 

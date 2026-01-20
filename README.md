@@ -253,6 +253,14 @@ Key benefits
 - Build a solid understanding of concepts such as coroutines, fibers, futures, and callbacks
 - Explore Rust's futures, craft your own runtime, and excel in handling stacks, ABIs, syscalls, and inline assembly
 
+### [Beginning Rust From Novice to Professional](https://link.springer.com/book/10.1007/978-1-4842-3468-6)
+
+<img src="https://media.springernature.com/w316/springer-static/cover/book/978-1-4842-3468-6.jpg?as=webp" width="120px"/>
+
+Learn to program with Rust in an easy, step-by-step manner on Unix, Linux shell, macOS and the Windows command line.  As you read this book, you’ll build on the knowledge you gained in previous chapters and see what Rust has to offer.  
+
+Beginning Rust starts with the basics of Rust, including how to name objects, control execution flow, and handle primitive types. You’ll see how to do arithmetic, allocate memory, use iterators, and handle input/output. Once you have mastered these core skills, you’ll work on handling errors and using the object-oriented features of Rust to build robust Rust applications in no time.
+
 **Advanced Books**
 ---
 
@@ -490,10 +498,37 @@ This book contains techniques that can improve the performance-related character
 
 This book is aimed at intermediate and advanced Rust users. Beginner Rust users have more than enough to learn and these techniques are likely to be an unhelpful distraction to them.
 
-
 ### [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html) *Free*
 
 The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who want to make changes to the Rust compiler, rustc. This resource is for those who want to understand how the Rust compiler works and learn how to make changes to it.
+
+### [Rust Atomics and Locks](https://marabos.nl/atomics/)
+
+<img src="https://marabos.nl/atomics/cover.jpg" width="120px"/>
+
+The Rust programming language is extremely well suited for concurrency, and its ecosystem has many libraries that include lots of concurrent data structures, locks, and more. But implementing those structures correctly can be difficult. Even in the most well-used libraries, memory ordering bugs are not uncommon.
+
+In this practical book, Mara Bos, team lead of the Rust library team, helps Rust programmers of all levels gain a clear understanding of low-level concurrency. You’ll learn everything about atomics and memory ordering and how they're combined with basic operating system APIs to build common primitives like mutexes and condition variables. Once you’re done, you’ll have a firm grasp of how Rust’s memory model, the processor, and the role of the operating system all fit together.
+
+### [Rust Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/v)
+
+<img src="https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/hwrustbrain-500.jpg" width="120px"/>
+
+The Rust programming language is consistent and does its best to avoid surprising the programmer. Like all languages, though, Rust still has its quirks. But these quirks present a teaching opportunity. In this book, you’ll work through a series of brain teasers that will challenge your understanding of Rust. By understanding the gaps in your knowledge, you can become better at what you do and avoid mistakes. Many of the teasers in this book come from the author’s own experience creating software. Others derive from commonly asked questions in the Rust community. Regardless of their origin, these brain teasers are fun, and let’s face it: who doesn’t love a good puzzle, right?
+
+What better way to exercise your brain and increase your Rust programming knowledge than with a collection of dynamic brain teasers? As you read through each of these puzzles and try to work out the answers, you’ll not only learn about Rust’s unique quirks and peculiarities, you’ll also have loads of fun along the way.
+
+### [Practical Systems Programming with Rust](https://www.oreilly.com/library/view/practical-system-programming/9781800560963/)
+
+<img src="https://www.oreilly.com/covers/urn:orm:book:9781800560963/300w/" width="120px"/>
+
+Dive into the world of systems programming with Rust and create robust and secure utilities for Linux/Unix systems. This book takes you from the basics of Rust to advanced systems programming concepts, with practical examples and projects to solidify your understanding. By the end, you'll be confident in designing and developing efficient system tools and utilities with Rust.
+
+### [Advanced Hands-on Rust](https://pragprog.com/titles/hwmrust/advanced-hands-on-rust/)
+
+<img src="https://pragprog.com/titles/hwmrust/advanced-hands-on-rust/hwmrust-500.jpg" width="120px"/>
+
+Accelerate your Rust development with reusable libraries, and build a game development toolkit that helps you quickly create games using the Bevy Engine. Improve your code with testing, benchmarking, and optimization. Unlock Rust’s trait and generic metaprogramming systems to develop code that adapts to fit your needs. Customize libraries with feature flags, and customize language syntax with macros. Master concurrency with threads and asynchronous programming. Structure your programs with reusable state management, menus, user interface elements, and asset management. Quickly build games with reusable physics and collision detection. Make your games pop with animations, particles, and rendering tricks, including parallax layering.
 
 **Resources**
 ====

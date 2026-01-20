@@ -166,7 +166,7 @@ Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficienc
 
 A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice. It includes a section on getting your environment set up, and full code listings for all examples.
 
-### [Rust Web Programming ](https://www.packtpub.com/product/rust-web-programming/) 2nd Edition
+### [Rust Web Programming ](https://www.packtpub.com/en-mt/product/rust-web-programming-9781803236650) 2nd Edition
 
 <img src="https://content.packt.com/_/image/original/B18722/cover_image.jpg" width="120px"/>
 
@@ -453,7 +453,7 @@ You'll learn:
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 
-### [The Burn Book](https://burn.dev/book/overview.html) *Free*
+### [The Burn Book](https://burn.dev/books/burn/) *Free*
 
 This book will help you get started with the Burn deep learning framework.
 If you know Pytorch Burn will probably seem familiar to you.
@@ -510,7 +510,7 @@ The Rust programming language is extremely well suited for concurrency, and its 
 
 In this practical book, Mara Bos, team lead of the Rust library team, helps Rust programmers of all levels gain a clear understanding of low-level concurrency. You’ll learn everything about atomics and memory ordering and how they're combined with basic operating system APIs to build common primitives like mutexes and condition variables. Once you’re done, you’ll have a firm grasp of how Rust’s memory model, the processor, and the role of the operating system all fit together.
 
-### [Rust Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/v)
+### [Rust Brain Teasers: Exercise Your Mind](https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/)
 
 <img src="https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/hwrustbrain-500.jpg" width="120px"/>
 

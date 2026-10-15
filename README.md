@@ -552,6 +552,12 @@ This book contains techniques that can improve the performance-related character
 
 This book is aimed at intermediate and advanced Rust users. Beginner Rust users have more than enough to learn and these techniques are likely to be an unhelpful distraction to them.
 
+### [Happy CPU for Rustaceans](https://github.com/m-javani/happy-cpu-book) *Free*
+
+<img src="https://raw.githubusercontent.com/m-javani/happy-cpu-book/main/cover.jpg" width="120px"/>
+
+A short book about what the machine does with your Rust — caches and memory layout, cache coherence, the TLB, the CPU pipeline, SIMD, the allocator, the kernel boundary, and the compiler. Fourteen chapters and a case study, each with a runnable exercise. The book focuses on the layers below the language: what the hardware actually does with your code, and how to write Rust that works with it instead of against it.
+
 ### [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html) *Free*
 
 The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who want to make changes to the Rust compiler, rustc. This resource is for those who want to understand how the Rust compiler works and learn how to make changes to it.

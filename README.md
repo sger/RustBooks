@@ -558,6 +558,12 @@ This book is aimed at intermediate and advanced Rust users. Beginner Rust users 
 
 A short book about what the machine does with your Rust — caches and memory layout, cache coherence, the TLB, the CPU pipeline, SIMD, the allocator, the kernel boundary, and the compiler. Fourteen chapters and a case study, each with a runnable exercise. The book focuses on the layers below the language: what the hardware actually does with your code, and how to write Rust that works with it instead of against it.
 
+### [Rust Memory Over Raft: A Field Guide](https://github.com/m-javani/rust-memory-over-raft) *Free*
+
+<img src="https://raw.githubusercontent.com/m-javani/rust-memory-over-raft/main/cover.jpg" width="120px"/>
+
+Rust Memory Over Raft is for engineers building reliable, in-memory distributed systems in Rust who know that consensus is not a magic solution. Beyond Raft theory, it tackles the engineering decisions that determine whether a replicated system keeps its promises: durable writes, snapshots, cluster membership, node authentication, and failure recovery. If other books teach you how consensus works, this one shows you what it takes to build a dependable application around it—and where the responsibility for correctness truly lies.
+
 ### [Rust Compiler Development Guide](https://rustc-dev-guide.rust-lang.org/getting-started.html) *Free*
 
 The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who want to make changes to the Rust compiler, rustc. This resource is for those who want to understand how the Rust compiler works and learn how to make changes to it.
